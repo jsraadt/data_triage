@@ -1,0 +1,1468 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,DistributionChannel,UserLanguage,Q32,Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q1_8,Q1_9,Q1_10,Q1_11,Q1_12,Q1_13,Q1_14,Q1_15,Q1_16,Q1_17,Q1_18,Q1_19,Q1_20,Q1_21,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6,Q4_7,Q4_8,Q4_9,Q4_10,Q4_11,Q4_12,Q4_13,Q4_14,Q4_15,Q4_16,Q4_17,Q4_18,Q4_19,Q4_20,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6_6,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q7_6,Q7_7,Q7_8,Q7_9,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q9_9,Q9_10,Q10_1,Q10_2,Q10_3,Q10_4,Q10_5,Q10_6,Q10_7,Q10_8,Q10_9,Q10_10,Q10_11,Q10_12,Q10_13,Q10_14,Q10_15,Q10_16,Q10_17,Q10_18,Q10_19,Q10_20,Q10_21,Q10_22,Q10_23,Q10_24,Q10_25,Q10_26,Q10_27,Q10_28,Q12_1,Q12_2,Q12_3,Q12_4,Q12_5,Q12_6,Q12_7,Q12_8,Q12_9,Q12_10,Q12_11,Q12_12,Q12_13,Q12_14,Q12_15,Q12_16,Q12_17,Q12_18,Q12_19,Q12_20,Q12_21,Q13_1,Q13_2,Q13_3,Q13_4,Q13_5,Q13_6,Q14_1,Q14_2,Q14_3,Q14_4,Q14_5,Q14_6,Q14_7,Q14_8,Q14_9,Q14_10,Q14_11,Q14_12,Q14_13,Q14_14,Q14_15,Q14_16,Q14_17,Q26_1,Q26_2,Q26_3,Q26_4,Q26_5,Q26_6,Q26_7,Q26_8,Q26_9,Q26_10,Q26_11,Q26_12,Q26_13,Q26_14,Q26_15,Q26_16,Q26_17,Q26_18,Q26_19,Q26_20,Q28,Q29
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Distribution Channel,User Language,Participant ID number:,"Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I considered my priorities about what is important in life.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I had a sense of appreciation for the value of my own life.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I developed new interests.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I had a feeling of self-reliance.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I had an understanding of spiritual matters.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I had a sense that I could count on people in times of trouble.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I established a new path for my life.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I had a sense of closeness with others.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I was willing to express my emotions.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I was able to handle difficulties.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I was able to do good things with my life.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I was able to accept the way things work out.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I have appreciated each day.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - New opportunities were available.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I had compassion for others.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I put effort into relationships.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I tried to change things which need changing.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I have had a strong religious faith.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I was strong.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I appreciated how wonderful people are.","Indicate for each of the following statements
+the degree to which the statement is true in your life during the past two
+weeks, using the following scale:
+
+
+
+            0= I did not experience this at all.
+
+            1= I
+experienced this to a very small degree.
+
+            2= I
+experienced this to a small degree.
+
+            3= I
+experienced this to a moderate degree.
+
+            4= I
+experienced this to a great degree.
+
+            5= I
+experienced this to a very great degree. - I accepted needing others.","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Interested","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Distressed","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Excited","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Upset","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Strong","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Guilty","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Scared","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Hostile","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Enthusiastic","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Proud","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Irritable","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Alert","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Ashamed","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Inspired","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Nervous","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Determined","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Attentive","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Jittery","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Active","DirectionsThis
+ scale consists of a number of words that describe different feelings 
+and emotions.  Read each item and then circle the appropriate answer 
+next to that word.  Indicate to what extent you have felt this way during the past week. Use the following scale to record your answers. - Afraid","Please take a moment to think
+about what makes your life feel important to you. Please respond to the
+following statements as truthfully and accurately as you can, and also please
+remember that these are very subjective questions and that there are no right
+or wrong answers. Please answer according to the scale below: - I understand my life’s meaning.","Please take a moment to think
+about what makes your life feel important to you. Please respond to the
+following statements as truthfully and accurately as you can, and also please
+remember that these are very subjective questions and that there are no right
+or wrong answers. Please answer according to the scale below: - My life has a clear sense of purpose.","Please take a moment to think
+about what makes your life feel important to you. Please respond to the
+following statements as truthfully and accurately as you can, and also please
+remember that these are very subjective questions and that there are no right
+or wrong answers. Please answer according to the scale below: - I have a good sense of what makes my life meaningful.","Please take a moment to think
+about what makes your life feel important to you. Please respond to the
+following statements as truthfully and accurately as you can, and also please
+remember that these are very subjective questions and that there are no right
+or wrong answers. Please answer according to the scale below: - I have discovered a satisfying life purpose","Please take a moment to think
+about what makes your life feel important to you. Please respond to the
+following statements as truthfully and accurately as you can, and also please
+remember that these are very subjective questions and that there are no right
+or wrong answers. Please answer according to the scale below: - My life has no clear purpose.","Using the scale below as a guide, write a number beside each statement to indicate how much
+you agree with it. - I have so much in life to be thankful for.","Using the scale below as a guide, write a number beside each statement to indicate how much
+you agree with it. - If I had to list everything that I felt grateful for, it would be a very long list.","Using the scale below as a guide, write a number beside each statement to indicate how much
+you agree with it. - When I look at the world, I don’t see much to be grateful for.","Using the scale below as a guide, write a number beside each statement to indicate how much
+you agree with it. - I am grateful to a wide variety of people.","Using the scale below as a guide, write a number beside each statement to indicate how much
+you agree with it. - As I get older I find myself more able to appreciate the people, events, and situations that have been a part of my life history.","Using the scale below as a guide, write a number beside each statement to indicate how much
+you agree with it. - Long amounts of time can go by before I feel grateful to something or someone.","The following set of statements deals with how
+you might feel about yourself and your life. Please remember that there are
+neither right nor wrong answers. - Most people see me as loving and affectionate.","The following set of statements deals with how
+you might feel about yourself and your life. Please remember that there are
+neither right nor wrong answers. - Maintaining close relationships has been difficult and frustrating for me.","The following set of statements deals with how
+you might feel about yourself and your life. Please remember that there are
+neither right nor wrong answers. - I often feel lonely because I have few close friends with whom to share my concerns.","The following set of statements deals with how
+you might feel about yourself and your life. Please remember that there are
+neither right nor wrong answers. - I enjoy personal and mutual conversations with family members or friends.","The following set of statements deals with how
+you might feel about yourself and your life. Please remember that there are
+neither right nor wrong answers. - I don’t have many people who want to listen when I need to talk.","The following set of statements deals with how
+you might feel about yourself and your life. Please remember that there are
+neither right nor wrong answers. - It seems to me that most other people have more friends than I do.","The following set of statements deals with how
+you might feel about yourself and your life. Please remember that there are
+neither right nor wrong answers. - People would describe me as a giving person, willing to share my time with others.","The following set of statements deals with how
+you might feel about yourself and your life. Please remember that there are
+neither right nor wrong answers. - I have not experienced many warm and trusting relationships with others.","The following set of statements deals with how
+you might feel about yourself and your life. Please remember that there are
+neither right nor wrong answers. - I know that I can trust my friends, and they know they can trust me.","Below
+are five statements that you may agree or disagree with. Using the scale
+below indicate your agreement with each item by placing the appropriate number
+on the line preceding that item. Please be open and honest in your responding. - In most ways my life is close to my ideal.","Below
+are five statements that you may agree or disagree with. Using the scale
+below indicate your agreement with each item by placing the appropriate number
+on the line preceding that item. Please be open and honest in your responding. - The conditions of my life are excellent.","Below
+are five statements that you may agree or disagree with. Using the scale
+below indicate your agreement with each item by placing the appropriate number
+on the line preceding that item. Please be open and honest in your responding. - I am satisfied with my life.","Below
+are five statements that you may agree or disagree with. Using the scale
+below indicate your agreement with each item by placing the appropriate number
+on the line preceding that item. Please be open and honest in your responding. - So far I have gotten the important things I want in life.","Below
+are five statements that you may agree or disagree with. Using the scale
+below indicate your agreement with each item by placing the appropriate number
+on the line preceding that item. Please be open and honest in your responding. - If I could live my life over, I would change almost nothing.",Please read the following statements and select the responses that best describes you with each item. - I often read books and magazines about my faith.,Please read the following statements and select the responses that best describes you with each item. - I make financial contributions to my religious organizations.,Please read the following statements and select the responses that best describes you with each item. - I spend time trying to grow in understanding of my faith.,Please read the following statements and select the responses that best describes you with each item. - Religion is especially important to me because it answers many questions about the meaning of life.,Please read the following statements and select the responses that best describes you with each item. - My religious beliefs lie behind my whole approach to life.,Please read the following statements and select the responses that best describes you with each item. - I enjoy spending time with others of my religious affiliation.,Please read the following statements and select the responses that best describes you with each item. - Religious beliefs influence all my dealings in life.,Please read the following statements and select the responses that best describes you with each item. - It is important to me to spend periods of time in private religious thought and reflection.,Please read the following statements and select the responses that best describes you with each item. - I enjoy working in the activities of my religious organization.,Please read the following statements and select the responses that best describes you with each item. - I keep well informed about my local religious group and have some influence in its decisions.,"These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been turning to work or other activities to take my mind off things.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been concentrating my efforts on doing something about the situation I'm in.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been saying to myself ""this isn't real.""","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been using alcohol or other drugs to make myself feel better.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been getting emotional support from others.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been giving up trying to deal with it.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been taking action to try to make the situation better.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been refusing to believe that it has happened.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been saying things to let my unpleasant feelings escape.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I’ve been getting help and advice from other people.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been using alcohol or other drugs to help me get through it.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been trying to see it in a different light, to make it seem more positive.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I’ve been criticizing myself.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been trying to come up with a strategy about what to do.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been getting comfort and understanding from someone.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been giving up the attempt to cope.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been looking for something good in what is happening.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been making jokes about it.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been doing something to think about it less, such as going to movies.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been accepting the reality of the fact that it has happened.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been expressing my negative feelings.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been trying to find comfort in my religion or spiritual beliefs.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I’ve been trying to get advice or help from other people about what to do.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been learning to live with it.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been thinking hard about what steps to take.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I’ve been blaming myself for things that happened.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been praying or meditating.","These items deal with ways you've been coping
+with the stress in your life since you started college.  There are many
+ways to try to deal with problems.  Obviously, different people deal with
+things in different ways, but I'm interested in how you've tried to deal with
+it.  Each item says something about a particular way of coping.  I
+want to know to what extent you've been doing what the item says.  How
+much or how frequently.  Don't answer on the basis of whether it seems to
+be working or not—just whether or not you're doing it.  Use these response
+choices.  Try to rate each item separately in your mind from the
+others.  Make your answers as true FOR YOU as you can. - I've been making fun of the situation.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I was aware of dryness of my mouth.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I couldn’t seem to experience any positive feeling at all.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I experienced breathing difficulty (eg  excessively rapid breathing, breathlessness in the absence of physical exertion).","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I tended to over-react to situations.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I found it difficult to relax.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I felt that I had nothing to look forward to.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I felt that I was using a lot of nervous energy.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I felt I wasn’t worth much as a person.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I felt that I was rather touchy.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I felt scared without any good reason.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I found it hard to wind down.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I was aware of the action of my heart in the absence of physical exertion (e.g. sense of heart rate increase, heart missing a beat).","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I felt down-hearted and blue.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I felt I was close to panic.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I was unable to become enthusiastic about anything.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I was intolerant of anything that kept me from getting on with what I was doing.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I felt that life was meaningless.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I found myself getting agitated.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I was worried about situations in which I might panic and make a fool of myself.","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I experienced trembling (e.g. in the hands).","Please read each statement and
+circle a number, 0, 1, 2, or 3 which indicates how much the statement applied
+to you over the past week. 
+There are no right or wrong answers. 
+Do not spend too much time on any statement. 
+
+
+The
+rating scale is as follows:
+
+0 
+Did not apply to me at all
+
+1 
+Applied to me in some degree, or some of the time
+
+2 
+Applied to me a considerable degree, or a good part of the time
+
+3 
+Applied to me very much, or most of the time - I found it difficult to work up the initiative to do things.","Directions: Please indicate the extent to which you agree with each item, using the
+4-point scale below. - I still get upset but I am starting to feel better.","Directions: Please indicate the extent to which you agree with each item, using the
+4-point scale below. - Talking about my problems makes me feel better.","Directions: Please indicate the extent to which you agree with each item, using the
+4-point scale below. - Facing dark secrets will make me feel better.","Directions: Please indicate the extent to which you agree with each item, using the
+4-point scale below. - Calling to mind painful experiences is part of healing.","Directions: Please indicate the extent to which you agree with each item, using the
+4-point scale below. - Working through feelings will make me a healthier person.","Directions: Please indicate the extent to which you agree with each item, using the
+4-point scale below. - Things have been getting a little better.","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 1. Natural disaster (for example, flood, hurricane, tornado, earthquake)","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 2. Fire or explosion","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 3. Transportation accident (for example, car accident, boat accident, train wreck, plane crash)","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 4. Serious accident at work, home, or during recreational activity","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 5. Exposure to toxic substance (for example, dangerous chemicals, radiation)","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 6. Physical assault (for example, being attacked, hit, slapped, kicked, beaten up)","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 7. Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb)","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 8. Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm)","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 9. Other unwanted or uncomfortable sexual experience","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 10. Combat or exposure to a war-zone (in the military or as a civilian)","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 11. Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war)","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 12. Life-threatening illness or injury","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 13. Severe human suffering","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 14. Sudden violent death (for example, homicide, suicide)","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 15. Sudden accidental death","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 16. Serious injury, harm, or death you caused to someone else","Listed below are a number of difficult or stressful things that sometimes happen to people. For each event check one or more of the boxes to the right to indicate that: (a) it happened to you personally; (b) you witnessed it happen to someone else; (c) you learned about it happening to a close family member or close friend; (d) you were exposed to it as part of your job (for example, paramedic, police, military, or other first responder); or (e) you’re not sure if it fits.
+
+Be sure to consider your entire life (growing up as well as adulthood) as you go through the list of events. - 17. Any other very stressful event or experience","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Repeated, disturbing, and unwanted memories of the stressful experience?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Repeated, disturbing dreams of the stressful experience?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Suddenly feeling or acting as if the stressful experience were actually happening again (as if you were actually back there reliving it)?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Feeling very upset when something reminded you of the stressful experience?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Having strong physical reactions when something reminded you of the stressful experience (for example, heart pounding, trouble breathing, sweating)?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Avoiding memories, thoughts, or feelings related to the stressful experience?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Avoiding external reminders of the stressful experience (for example, people, places, conversations, activities, objects, or situations)?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Trouble remembering important parts of the stressful experience?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Having strong negative beliefs about yourself, other people, or the world (for example, having thoughts such as: I am bad, there is something seriously wrong with me, no one can be trusted, the world is completely dangerous)?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Blaming yourself or someone else for the stressful experience or what happened after it?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Having strong negative feelings such as fear, horror, anger, guilt, or shame?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Loss of interest in activities that you used to enjoy?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Feeling distant or cut off from other people?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Trouble experiencing positive feelings (for example, being unable to feel happiness or have loving feelings for people close to you)?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Irritable behavior, angry outbursts, or acting aggressively?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Taking too many risks or doing things that could cause you harm?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Being “super alert” or watchful or on guard?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Feeling jumpy or easily startled?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Having difficulty concentrating?","Below is a list of problems that people sometimes have in response to a very stressful experience. Keeping your worst event in mind, please read each problem carefully and then circle one of the numbers to the right to indicate how much you have been bothered by that problem in the past month.
+
+In the past month, how much were you bothered by: - Trouble falling or staying asleep?",What is your gender?,What is your age?
+"{""ImportId"":""startDate"",""timeZone"":""America/Chicago""}","{""ImportId"":""endDate"",""timeZone"":""America/Chicago""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Chicago""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID32_TEXT""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID1_2""}","{""ImportId"":""QID1_3""}","{""ImportId"":""QID1_4""}","{""ImportId"":""QID1_5""}","{""ImportId"":""QID1_6""}","{""ImportId"":""QID1_7""}","{""ImportId"":""QID1_8""}","{""ImportId"":""QID1_9""}","{""ImportId"":""QID1_10""}","{""ImportId"":""QID1_11""}","{""ImportId"":""QID1_12""}","{""ImportId"":""QID1_13""}","{""ImportId"":""QID1_14""}","{""ImportId"":""QID1_15""}","{""ImportId"":""QID1_16""}","{""ImportId"":""QID1_17""}","{""ImportId"":""QID1_18""}","{""ImportId"":""QID1_19""}","{""ImportId"":""QID1_20""}","{""ImportId"":""QID1_21""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID4_2""}","{""ImportId"":""QID4_3""}","{""ImportId"":""QID4_4""}","{""ImportId"":""QID4_5""}","{""ImportId"":""QID4_6""}","{""ImportId"":""QID4_7""}","{""ImportId"":""QID4_8""}","{""ImportId"":""QID4_9""}","{""ImportId"":""QID4_10""}","{""ImportId"":""QID4_11""}","{""ImportId"":""QID4_12""}","{""ImportId"":""QID4_13""}","{""ImportId"":""QID4_14""}","{""ImportId"":""QID4_15""}","{""ImportId"":""QID4_16""}","{""ImportId"":""QID4_17""}","{""ImportId"":""QID4_18""}","{""ImportId"":""QID4_19""}","{""ImportId"":""QID4_20""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID5_2""}","{""ImportId"":""QID5_3""}","{""ImportId"":""QID5_4""}","{""ImportId"":""QID5_5""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID6_2""}","{""ImportId"":""QID6_3""}","{""ImportId"":""QID6_4""}","{""ImportId"":""QID6_5""}","{""ImportId"":""QID6_6""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID7_2""}","{""ImportId"":""QID7_3""}","{""ImportId"":""QID7_4""}","{""ImportId"":""QID7_5""}","{""ImportId"":""QID7_6""}","{""ImportId"":""QID7_7""}","{""ImportId"":""QID7_8""}","{""ImportId"":""QID7_9""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID8_2""}","{""ImportId"":""QID8_3""}","{""ImportId"":""QID8_4""}","{""ImportId"":""QID8_5""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID9_2""}","{""ImportId"":""QID9_3""}","{""ImportId"":""QID9_4""}","{""ImportId"":""QID9_5""}","{""ImportId"":""QID9_6""}","{""ImportId"":""QID9_7""}","{""ImportId"":""QID9_8""}","{""ImportId"":""QID9_9""}","{""ImportId"":""QID9_10""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID10_2""}","{""ImportId"":""QID10_3""}","{""ImportId"":""QID10_4""}","{""ImportId"":""QID10_5""}","{""ImportId"":""QID10_6""}","{""ImportId"":""QID10_7""}","{""ImportId"":""QID10_8""}","{""ImportId"":""QID10_9""}","{""ImportId"":""QID10_10""}","{""ImportId"":""QID10_11""}","{""ImportId"":""QID10_12""}","{""ImportId"":""QID10_13""}","{""ImportId"":""QID10_14""}","{""ImportId"":""QID10_15""}","{""ImportId"":""QID10_16""}","{""ImportId"":""QID10_17""}","{""ImportId"":""QID10_18""}","{""ImportId"":""QID10_19""}","{""ImportId"":""QID10_20""}","{""ImportId"":""QID10_21""}","{""ImportId"":""QID10_22""}","{""ImportId"":""QID10_23""}","{""ImportId"":""QID10_24""}","{""ImportId"":""QID10_25""}","{""ImportId"":""QID10_26""}","{""ImportId"":""QID10_27""}","{""ImportId"":""QID10_28""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID12_5""}","{""ImportId"":""QID12_6""}","{""ImportId"":""QID12_7""}","{""ImportId"":""QID12_8""}","{""ImportId"":""QID12_9""}","{""ImportId"":""QID12_10""}","{""ImportId"":""QID12_11""}","{""ImportId"":""QID12_12""}","{""ImportId"":""QID12_13""}","{""ImportId"":""QID12_14""}","{""ImportId"":""QID12_15""}","{""ImportId"":""QID12_16""}","{""ImportId"":""QID12_17""}","{""ImportId"":""QID12_18""}","{""ImportId"":""QID12_19""}","{""ImportId"":""QID12_20""}","{""ImportId"":""QID12_21""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID13_3""}","{""ImportId"":""QID13_4""}","{""ImportId"":""QID13_5""}","{""ImportId"":""QID13_6""}","{""ImportId"":""QID14_1""}","{""ImportId"":""QID14_2""}","{""ImportId"":""QID14_3""}","{""ImportId"":""QID14_4""}","{""ImportId"":""QID14_5""}","{""ImportId"":""QID14_6""}","{""ImportId"":""QID14_7""}","{""ImportId"":""QID14_8""}","{""ImportId"":""QID14_9""}","{""ImportId"":""QID14_10""}","{""ImportId"":""QID14_11""}","{""ImportId"":""QID14_12""}","{""ImportId"":""QID14_13""}","{""ImportId"":""QID14_14""}","{""ImportId"":""QID14_15""}","{""ImportId"":""QID14_16""}","{""ImportId"":""QID14_17""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID26_4""}","{""ImportId"":""QID26_5""}","{""ImportId"":""QID26_6""}","{""ImportId"":""QID26_7""}","{""ImportId"":""QID26_8""}","{""ImportId"":""QID26_9""}","{""ImportId"":""QID26_10""}","{""ImportId"":""QID26_11""}","{""ImportId"":""QID26_12""}","{""ImportId"":""QID26_13""}","{""ImportId"":""QID26_14""}","{""ImportId"":""QID26_15""}","{""ImportId"":""QID26_16""}","{""ImportId"":""QID26_17""}","{""ImportId"":""QID26_18""}","{""ImportId"":""QID26_19""}","{""ImportId"":""QID26_20""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29_TEXT""}"
+8/31/2015 9:57,8/31/2015 11:14,0,100,4587,1,8/31/2015 11:14,R_1FFo5ThYtErJmPd,,,,,anonymous,EN,202,6,6,4,4,3,6,3,6,6,6,5,4,4,4,6,6,6,1,5,6,6,3,4,5,2,3,3,5,1,5,4,2,2,3,3,5,4,3,4,3,4,5,5,6,6,1,7,7,1,7,7,1,6,1,3,6,1,6,5,3,6,5,5,7,6,7,1,1,1,1,1,1,1,1,1,1,4,3,4,1,4,1,3,3,2,4,1,3,3,3,4,1,2,1,4,2,1,1,4,2,1,2,1,1,1,1,1,4,3,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,4,2,1,2,3,3,,,"2,3",,,,,3,3,,,2,,3,,,,5,5,5,5,5,5,5,3,3,3,4,5,3,2,1,1,1,1,3,4,2,19
+8/31/2015 9:52,8/31/2015 11:15,0,100,4980,1,8/31/2015 11:15,R_3NCLv2eAqi4RTw4,,,,,anonymous,EN,201,6,4,6,6,3,5,6,6,3,5,6,6,4,6,4,2,6,3,4,5,6,4,2,5,3,4,3,3,2,5,5,2,4,4,5,3,5,5,2,5,3,6,7,6,6,1,7,7,1,7,7,3,4,4,4,5,3,4,4,3,5,5,6,6,6,3,2,2,2,4,4,5,2,3,4,2,2,3,1,1,1,1,2,1,1,1,1,1,3,3,2,1,1,1,1,3,2,3,2,3,2,1,2,1,3,1,1,1,1,1,2,1,3,1,2,1,1,1,1,3,1,1,1,1,3,3,3,3,3,3,4,"1,2,3","2,3","1,2,3",3,,"2,3","1,2,3",3,3,3,,"2,3",3,3,"2,3",,"1,2,3",1,1,1,1,1,1,1,1,3,1,3,3,3,1,1,1,4,1,3,4,1,22
+8/31/2015 9:48,8/31/2015 11:16,0,100,5249,1,8/31/2015 11:16,R_2aDWr1cmuuswRNf,,,,,anonymous,EN,200,6,6,1,6,6,6,2,3,2,5,2,4,6,6,2,2,1,6,5,4,6,3,2,4,5,5,1,1,1,4,2,1,1,1,4,5,4,4,3,5,1,7,6,5,5,1,7,6,1,7,7,1,3,5,3,5,1,4,5,3,2,3,3,6,6,5,3,4,5,5,5,5,5,5,3,3,4,3,1,1,4,2,4,1,1,4,1,3,1,3,3,1,4,3,4,2,1,4,4,2,4,2,4,1,1,1,2,4,3,1,3,1,4,2,3,1,2,1,1,1,1,4,4,1,3,4,4,1,3,4,4,3,5,"1,2",1,5,"1,2",5,5,5,3,3,2,3,5,2,5,"1,2",4,1,1,2,1,5,5,1,3,4,4,3,4,4,1,1,1,2,1,1,2,21
+8/31/2015 11:17,8/31/2015 11:35,0,100,1102,1,8/31/2015 11:35,R_2BeNtxEP35oEfxk,,,,,anonymous,EN,203,5,4,2,6,4,3,4,5,5,6,2,3,3,4,5,6,5,1,5,4,3,2,4,3,5,4,1,4,1,4,2,3,5,4,2,3,4,3,2,2,3,5,6,7,4,2,5,4,5,4,6,2,6,4,4,5,3,4,5,3,4,4,3,6,4,5,1,1,1,1,1,1,1,1,1,1,2,3,1,2,3,1,1,1,2,1,2,1,3,1,4,2,1,1,2,3,2,1,1,3,1,3,1,1,2,2,3,4,3,3,1,4,3,3,2,1,3,1,2,1,1,1,2,3,2,3,4,2,3,4,3,1,5,5,2,5,1,5,1,1,3,5,3,2,5,5,5,5,5,4,2,3,2,1,2,1,3,3,4,3,4,3,1,2,4,2,1,3,2,18
+8/31/2015 11:17,8/31/2015 11:42,0,100,1523,1,8/31/2015 11:42,R_27JRRZl9gOTGNwo,,,,,anonymous,EN,204,2,5,3,3,1,2,2,3,2,2,4,3,3,2,2,,4,1,3,3,2,4,2,4,2,3,1,1,1,4,3,3,2,1,2,1,3,4,1,3,1,4,4,5,6,1,7,7,2,6,6,2,3,3,2,3,2,3,4,4,6,6,6,5,4,5,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,2,2,1,1,1,2,2,1,1,2,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,2,2,2,1,3,2,3,3,3,3,3,5,5,5,5,5,5,5,3,5,5,3,5,1,1,1,1,2,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,18
+8/31/2015 11:14,8/31/2015 11:53,0,100,2345,1,8/31/2015 11:53,R_88Ig36jpHTY3Yu5,,,,,anonymous,EN,205,4,3,3,4,2,4,4,4,5,5,4,5,4,5,5,5,4,1,4,5,3,4,3,4,2,2,4,3,2,4,2,2,3,1,2,2,4,3,1,5,2,1,4,4,2,5,4,3,2,6,5,6,5,4,4,4,1,2,5,4,5,4,2,5,5,3,1,1,2,2,2,1,1,1,1,1,3,3,1,1,2,1,2,1,2,2,1,3,1,3,1,1,3,2,3,2,2,1,2,3,3,2,1,1,2,1,1,1,2,1,1,1,3,2,2,1,2,1,2,1,1,2,2,1,2,3,3,2,3,1,4,1,2,1,"2,3",5,3,3,3,"1,3",5,5,3,5,5,5,5,5,3,1,3,1,2,2,1,5,1,1,2,1,3,3,1,3,3,1,2,2,2,18
+8/31/2015 11:36,8/31/2015 11:59,0,100,1353,1,8/31/2015 11:59,R_1Dpbb2IwXClwbyz,,,,,anonymous,EN,206,5,6,5,4,6,4,4,5,5,4,4,4,6,6,6,5,5,6,4,6,6,4,2,4,2,3,1,2,1,3,3,2,2,2,4,2,4,3,1,3,2,6,7,7,7,1,7,7,1,7,7,1,6,1,1,6,1,3,6,1,4,6,6,6,5,4,5,5,5,5,1,5,5,5,5,5,2,1,2,1,3,2,3,2,2,3,1,2,1,2,3,1,2,1,2,3,2,4,4,,2,1,4,1,2,1,1,2,2,1,1,1,1,2,1,1,1,2,1,1,1,1,2,1,1,3,4,4,3,4,3,2,3,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,2,2,2,2,1,3,1,1,1,2,1,1,1,1,1,1,1,1,1,2,22
+8/31/2015 12:00,8/31/2015 12:17,0,100,1039,1,8/31/2015 12:17,R_2ZR0CUAEzZy447z,,,,,anonymous,EN,208,6,6,6,6,5,6,6,6,3,4,5,3,6,3,6,6,6,1,6,6,6,5,3,5,2,5,1,3,1,5,5,3,3,1,5,4,5,5,3,5,1,7,7,7,7,1,7,7,1,7,7,1,6,1,3,6,3,6,6,6,6,6,6,6,6,5,2,1,1,1,1,2,1,1,1,2,4,4,1,1,4,2,4,1,2,4,1,4,2,4,4,1,4,4,4,4,4,1,3,4,2,2,1,2,4,1,1,3,2,1,2,1,2,2,2,2,2,2,1,1,1,2,3,1,1,4,4,4,4,4,4,"1,2,3",5,3,3,5,3,5,5,"1,3",5,5,"2,3",5,5,"3,5",5,5,2,1,1,3,3,4,4,4,3,3,3,2,3,2,1,1,2,1,2,2,2,18
+8/31/2015 11:43,8/31/2015 12:23,0,100,2387,1,8/31/2015 12:23,R_XB9RzPZNo7hLiA9,,,,,anonymous,EN,207,5,6,5,5,5,5,5,6,6,6,6,5,5,5,6,6,6,5,6,6,5,4,4,5,3,4,1,3,1,3,3,3,4,1,4,4,4,4,1,5,3,6,5,5,6,1,7,7,1,4,6,3,6,3,3,5,2,3,4,2,5,6,6,5,5,5,1,2,3,3,3,2,2,2,3,3,2,3,1,1,2,1,3,1,2,4,1,2,2,3,2,1,3,4,2,3,2,1,3,3,4,2,1,1,3,2,2,3,3,1,3,1,1,1,1,1,2,1,1,2,1,2,1,2,1,4,3,2,3,3,3,"1,3","1,3","1,3","1,3",,"1,3",3,,3,3,,,3,2,3,,,1,2,1,2,2,2,1,3,1,2,2,1,1,2,2,1,3,2,3,3,1,18
+8/31/2015 11:57,8/31/2015 12:36,0,100,2336,1,8/31/2015 12:36,R_3ESTjHGVZLiUJuv,,,,,anonymous,EN,209,6,6,1,4,6,5,1,6,6,6,6,3,6,6,6,6,6,6,6,6,3,4,1,5,3,4,1,2,1,5,5,3,4,1,5,1,4,3,1,2,1,7,7,7,7,1,7,7,1,7,6,1,4,3,1,6,3,1,6,1,5,6,7,7,7,7,5,5,5,4,5,5,5,5,5,5,1,2,1,1,2,1,4,1,1,3,1,4,1,3,2,1,4,1,1,3,4,4,3,4,4,1,4,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,3,1,1,1,1,3,3,2,4,4,3,3,3,3,3,"1,2,3",3,3,3,3,5,3,5,3,3,5,"1,2,3",1,1,1,1,1,1,3,1,1,1,1,1,2,1,1,1,1,1,1,1,2,20
+8/31/2015 12:13,8/31/2015 12:45,0,100,1907,1,8/31/2015 12:45,R_brYNhcr5IxbwILv,,,,,anonymous,EN,210,6,5,3,3,4,5,4,6,2,3,4,4,5,4,6,5,5,5,4,,3,2,5,4,4,3,5,1,2,3,1,4,2,2,1,5,3,3,5,2,1,3,3,4,3,5,7,7,1,7,7,5,5,2,2,6,4,3,6,1,6,5,4,6,6,6,2,2,2,3,3,3,2,2,4,3,4,3,2,1,2,2,3,2,3,2,1,2,4,3,2,2,2,4,4,3,2,2,2,3,3,4,2,4,1,4,3,3,3,4,4,4,3,1,3,3,3,3,2,3,2,3,4,3,3,2,3,3,3,3,2,"3,5",5,5,"1,2,3",5,3,3,3,5,3,5,"2,3",3,5,3,5,1,3,2,2,4,2,3,5,4,1,1,1,3,2,3,2,1,2,1,2,1,2,19
+8/31/2015 12:20,8/31/2015 13:13,0,100,3198,1,8/31/2015 13:13,R_s5PWk7B4pHVZsyd,,,,,anonymous,EN,211,6,6,6,6,5,5,5,5,2,6,6,6,6,6,6,6,6,6,6,6,6,5,2,5,4,5,2,1,1,4,5,1,5,1,4,3,3,3,2,5,1,7,7,7,7,1,7,7,1,5,7,1,4,3,1,5,1,1,6,2,6,4,4,4,7,7,2,2,3,5,3,4,4,3,3,3,3,3,1,1,1,1,4,2,2,2,1,2,2,2,2,2,4,4,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,3,1,1,2,1,2,4,4,4,4,4,4,,,,,,,1,,,1,,,,1,,,,4,4,3,3,4,5,5,5,5,5,3,1,1,1,3,1,4,3,3,5,1,31
+8/31/2015 12:24,8/31/2015 13:16,0,100,3145,1,8/31/2015 13:16,R_1l4tAaOTLgiIdmX,,,,,anonymous,EN,212,6,6,5,5,5,6,4,6,6,5,6,6,6,6,5,6,5,5,5,6,6,4,1,4,1,4,1,2,1,5,5,2,2,1,5,3,4,3,1,4,1,6,7,7,7,1,7,7,1,6,7,4,5,4,1,5,1,3,5,5,6,6,7,7,6,7,2,2,2,2,3,3,2,4,3,2,3,3,1,1,3,1,3,1,2,3,1,4,2,3,3,1,4,2,2,2,2,3,3,2,3,2,3,2,2,1,2,1,1,1,2,1,1,1,1,3,1,1,1,1,1,3,1,1,2,3,3,4,4,4,4,3,5,1,3,5,3,5,5,1,3,5,5,5,3,5,5,1,2,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,18
+8/31/2015 13:17,8/31/2015 13:33,0,100,979,1,8/31/2015 13:33,R_10ZpH95wWFhc1Lz,,,,,anonymous,EN,213,6,6,6,5,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,4,3,4,1,5,1,2,1,5,5,2,5,1,3,5,5,5,3,5,2,6,6,7,7,1,7,7,2,7,7,2,6,1,1,6,1,1,6,1,6,5,5,5,7,2,3,4,4,5,5,5,5,5,5,2,1,4,1,1,3,1,1,1,1,4,1,,1,1,4,1,4,3,3,3,1,4,1,3,3,1,4,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,1,3,3,3,3,3,1,2,5,2,3,"3,5","3,5","3,5",3,2,5,3,3,3,5,3,1,2,4,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,18
+8/31/2015 13:16,8/31/2015 13:42,0,100,1593,1,8/31/2015 13:42,R_3qvc7pYDA0vte6d,,,,,anonymous,EN,214,6,6,4,4,3,5,3,5,3,5,5,5,6,5,5,6,5,3,6,4,4,4,2,3,1,4,1,3,2,3,5,2,4,1,4,5,5,3,1,5,1,7,7,7,5,3,7,7,1,7,7,1,6,1,6,6,3,6,6,2,6,4,5,5,6,7,1,1,2,4,3,1,3,5,1,1,1,4,1,1,4,1,4,1,1,3,1,3,3,3,4,1,2,1,1,3,2,2,3,3,3,2,4,1,1,1,1,3,3,1,4,3,2,3,4,3,2,4,2,3,1,4,4,1,1,3,3,1,2,4,4,,,3,,,,,,,,,2,,,2,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,2,21
+8/31/2015 12:37,8/31/2015 13:57,0,100,4796,1,8/31/2015 13:57,R_zdl1UP8vTGyBwfD,,,,,anonymous,EN,215,5,2,5,2,3,1,2,1,3,2,4,4,1,5,5,2,4,1,3,2,4,5,4,2,4,1,1,3,1,1,2,2,1,1,3,5,3,2,3,2,4,2,1,2,1,7,5,4,3,2,3,2,3,5,6,3,6,6,2,5,4,1,1,1,1,1,1,1,2,1,1,5,1,3,2,2,4,1,4,1,2,3,1,4,1,1,1,1,2,3,1,1,3,1,4,1,1,2,1,2,1,3,2,1,2,1,1,4,2,1,4,3,1,2,1,4,4,4,1,1,3,2,2,2,4,3,1,3,4,4,3,5,3,3,5,5,1,5,5,1,5,5,2,5,3,5,5,1,4,1,4,4,1,4,2,1,3,3,3,3,5,1,1,1,1,1,5,5,2,18
+8/31/2015 13:43,8/31/2015 14:01,0,100,1050,1,8/31/2015 14:01,R_1OqJNjk2KdQoKkl,,,,,anonymous,EN,216,6,6,6,6,6,5,6,6,6,5,6,6,6,6,6,6,6,5,6,6,6,4,1,4,1,5,3,1,1,5,5,1,5,1,5,2,5,5,3,5,1,7,7,7,7,1,7,7,1,7,7,2,5,1,1,6,1,2,5,1,6,6,7,7,7,3,2,2,3,5,5,4,3,4,5,3,1,3,1,1,4,1,4,1,1,1,1,1,1,4,3,1,4,4,1,4,1,4,3,4,4,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,4,3,3,4,4,"2,3",3,"2,3",3,,"2,3",3,,,,,,,"1,2,3",,,,1,2,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,18
+8/31/2015 12:45,8/31/2015 14:12,0,100,5203,1,8/31/2015 14:12,R_2pRhChNJCJiGfgb,,,,,anonymous,EN,218,5,6,5,4,2,6,1,5,5,4,6,4,4,4,5,6,6,4,5,5,5,3,5,4,3,4,3,2,1,3,5,1,5,1,5,5,5,5,2,5,2,7,7,7,7,1,7,6,2,,7,5,5,3,3,6,2,5,5,2,4,6,7,5,6,3,1,2,1,1,1,1,1,1,1,2,1,2,1,1,3,1,3,1,1,4,1,3,2,3,2,1,3,3,2,3,2,1,3,4,3,3,1,3,1,1,1,4,3,3,3,1,1,2,1,1,1,1,2,1,1,1,3,1,1,3,4,1,1,2,4,1,2,1,1,5,1,5,3,3,3,5,2,2,3,5,5,1,4,4,3,4,1,3,1,1,1,5,3,3,4,4,4,1,2,1,3,2,2,18
+8/31/2015 13:35,8/31/2015 14:13,0,100,2275,1,8/31/2015 14:13,R_2VBDUCmuBVhJfKU,,,,,anonymous,EN,217,6,5,5,4,2,5,5,6,5,6,4,6,5,4,5,6,4,1,6,6,6,5,4,5,4,5,1,5,2,3,4,3,3,4,3,5,5,4,3,5,4,4,5,6,6,3,7,6,1,7,7,2,4,3,4,5,2,2,4,2,6,6,6,6,6,6,1,1,1,1,1,1,1,1,1,1,2,4,2,1,4,3,4,2,2,4,1,3,3,3,3,1,3,3,3,3,3,1,4,4,3,2,1,3,2,1,1,2,1,1,3,1,1,1,1,1,1,2,1,1,1,2,1,1,1,2,4,3,3,4,4,3,3,1,1,3,2,2,3,2,2,3,2,3,3,3,3,1,2,1,1,2,1,2,1,1,2,3,2,1,1,1,1,1,1,1,1,1,1,18
+8/31/2015 13:56,8/31/2015 14:20,0,100,1436,1,8/31/2015 14:20,R_1pKxVt2hu3px7Nk,,,,,anonymous,EN,219,6,5,1,6,4,1,4,3,1,6,6,3,3,4,6,6,5,4,6,3,1,4,3,4,2,5,1,1,2,3,3,1,4,1,4,4,5,3,2,3,1,7,7,7,7,1,5,5,3,5,6,5,5,1,1,5,1,2,6,1,6,1,3,5,5,1,2,1,2,2,1,2,2,1,1,1,4,2,1,1,3,2,3,1,4,2,1,3,4,2,2,1,3,4,4,2,1,2,2,2,2,4,2,4,1,1,1,2,3,1,3,1,2,2,3,1,1,1,1,2,1,1,2,1,1,3,3,1,2,2,2,1,3,"1,2,3",3,3,3,3,"1,2,3","1,2,3",3,3,3,3,3,3,5,5,2,1,1,4,4,5,5,2,3,5,2,1,1,3,1,2,5,2,1,4,2,19
+8/31/2015 14:01,8/31/2015 14:29,0,100,1648,1,8/31/2015 14:29,R_3gLN8npXovwI6eM,,,,,anonymous,EN,221,4,5,5,4,4,5,4,5,4,5,5,4,4,5,4,4,4,3,5,4,4,3,3,3,1,4,1,3,1,3,3,2,1,1,3,4,3,3,2,4,3,5,5,4,4,4,6,6,1,6,6,4,4,3,4,5,3,4,4,3,5,3,3,5,6,2,1,1,2,2,3,2,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,3,3,"2,3",1,"1,2",5,3,3,3,3,3,3,3,5,3,3,3,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,18
+8/31/2015 13:58,8/31/2015 14:33,0,100,2125,1,8/31/2015 14:33,R_1gONniAZ3GbWQiG,,,,,anonymous,EN,220,5,6,6,6,5,5,6,6,5,6,6,5,6,6,6,6,3,6,5,6,4,5,1,4,1,3,2,2,1,3,4,4,4,1,5,2,5,5,3,5,1,4,5,6,5,2,7,7,1,7,7,2,5,4,2,6,1,1,6,1,6,6,7,7,7,6,1,4,4,5,4,5,2,4,5,4,2,3,1,1,1,1,1,1,2,2,1,2,1,3,2,1,3,2,2,3,1,3,2,2,2,2,3,2,3,1,1,3,4,1,3,1,1,1,3,1,1,1,2,1,1,2,1,1,1,3,3,1,3,3,4,"1,3",3,2,2,5,5,5,5,2,5,5,2,5,3,5,5,"1,2,3",4,1,1,4,2,2,1,1,1,1,1,1,2,1,3,1,4,4,4,4,2,19
+8/31/2015 14:14,8/31/2015 14:47,0,100,1973,1,8/31/2015 14:47,R_25A6OYB8v4UuTw4,,,,,anonymous,EN,222,5,3,4,3,2,4,2,2,4,2,2,2,2,4,4,4,3,3,2,5,6,4,4,1,4,1,5,3,2,4,1,4,3,4,2,3,3,3,1,3,2,2,2,3,4,5,6,7,2,5,6,5,4,4,5,4,2,4,5,2,6,1,1,1,3,1,1,1,1,2,2,3,2,1,3,1,4,4,3,1,3,4,1,1,1,3,1,1,4,4,2,4,4,3,2,4,3,1,3,4,1,3,2,2,2,2,2,1,4,2,4,4,1,1,1,1,3,3,2,4,3,3,4,2,1,1,3,3,4,4,1,3,3,"1,2,3",5,5,3,3,1,1,5,3,1,"1,3",3,5,5,"1,2,3",4,1,3,1,1,5,4,5,5,5,5,5,5,4,4,4,4,4,3,2,2,18
+8/31/2015 14:30,8/31/2015 14:48,0,100,1100,1,8/31/2015 14:48,R_suJcEgShsoQVWGR,,,,,anonymous,EN,223,6,6,6,5,5,2,6,4,5,5,5,4,5,5,5,4,5,6,5,5,5,4,3,4,2,4,1,2,1,4,4,1,2,1,5,2,5,5,1,4,2,6,6,7,6,1,7,7,1,7,7,1,5,3,4,6,3,6,6,1,5,5,4,5,5,1,5,4,5,5,4,5,4,5,5,3,4,2,2,1,3,3,4,1,2,3,1,4,2,3,3,1,4,1,3,3,1,4,3,4,1,3,4,1,1,1,1,3,3,1,2,1,1,3,2,2,2,4,1,1,1,1,3,1,1,4,4,4,3,4,4,3,3,1,5,5,1,5,1,1,5,5,5,5,5,3,5,1,4,4,3,4,5,5,4,3,4,5,4,4,4,1,1,1,4,3,2,2,2,18
+8/31/2015 14:40,8/31/2015 15:00,0,100,1246,1,8/31/2015 15:01,R_3dQaAF1fzTlgBkm,,,,,anonymous,EN,224,6,6,6,5,4,6,5,3,4,6,6,6,6,6,6,6,4,4,6,6,4,5,3,5,3,5,1,2,1,3,4,1,5,1,4,3,4,4,2,5,2,7,7,7,7,1,7,7,1,5,7,7,6,4,3,6,2,3,6,3,6,5,6,7,5,6,2,2,3,3,2,4,4,3,4,2,3,4,1,1,3,1,3,1,1,3,1,4,1,4,2,1,3,1,3,4,1,4,3,4,4,1,2,1,1,1,1,1,2,1,2,1,3,1,2,1,2,1,1,3,1,3,2,1,1,4,3,3,2,4,4,"2,3",5,5,"1,2",5,5,5,5,5,5,5,"2,3","2,3",5,5,5,3,2,1,1,2,2,3,3,1,1,1,1,1,2,1,1,1,3,2,3,1,1,20
+8/31/2015 14:13,8/31/2015 15:17,0,100,3846,1,8/31/2015 15:17,R_R9K4WSnhNXNcjwB,,,,,anonymous,EN,227,6,6,5,5,6,6,3,6,4,5,5,6,4,5,6,6,5,6,5,6,5,4,4,5,4,3,1,2,1,5,4,3,1,1,3,3,4,4,1,2,2,7,7,7,7,1,7,7,1,6,7,1,5,2,1,6,1,3,5,2,6,6,6,6,6,5,5,5,5,5,5,5,5,5,4,4,3,4,2,1,4,1,3,1,1,4,1,2,2,3,4,1,4,2,2,3,3,4,4,4,3,1,4,1,1,1,1,1,2,1,1,1,1,2,2,2,2,1,1,1,1,1,1,1,1,3,3,1,2,3,3,1,3,3,3,5,5,3,3,3,5,5,2,5,5,3,5,,2,1,1,2,1,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,18
+8/31/2015 14:48,8/31/2015 15:22,0,100,2064,1,8/31/2015 15:22,R_UVWWQ9k7DitLzXj,,,,,anonymous,EN,226,6,6,6,6,6,5,4,6,5,5,6,5,4,6,6,6,6,6,6,5,3,5,2,5,1,5,1,5,1,5,5,3,4,1,5,5,5,5,4,5,5,7,7,7,7,1,7,7,1,7,7,1,6,2,2,6,2,2,6,2,6,6,6,6,6,4,3,5,5,5,5,5,5,5,5,5,3,3,4,1,3,1,3,2,3,3,1,4,2,3,3,2,3,1,3,3,1,4,3,2,3,2,4,1,3,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,4,3,2,4,4,"1,2,3","2,3","1,2,3",5,3,3,3,3,3,3,3,"2,3","1,2,3",3,3,3,5,2,2,1,3,2,3,3,1,1,1,1,1,1,1,2,1,3,2,2,2,2,18
+8/31/2015 14:50,8/31/2015 15:24,0,100,2021,1,8/31/2015 15:24,R_2y3giKRwQBQOcFF,,,,,anonymous,EN,225,1,1,3,1,4,4,4,6,4,6,4,6,6,6,6,3,6,6,6,6,6,5,3,5,3,5,2,3,1,4,5,3,4,1,3,3,5,4,2,5,3,7,7,7,7,1,7,6,2,6,7,1,5,2,4,6,4,2,5,1,6,6,6,6,6,6,1,1,5,5,5,5,5,5,5,5,4,3,1,1,3,2,3,3,3,3,1,2,3,3,3,2,2,1,4,2,2,4,4,3,1,1,2,1,4,1,1,4,1,1,3,1,1,3,1,3,3,3,1,2,1,1,1,1,1,3,3,2,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,5,1,5,5,5,5,3,5,1,2,5,1,5,2,5,2,3,2,2,1,2,19
+8/31/2015 15:02,8/31/2015 15:40,0,100,2316,1,8/31/2015 15:40,R_50kRc23HvJmNQwV,,,,,anonymous,EN,229,4,3,4,5,4,2,4,3,3,5,4,6,4,4,5,4,4,2,3,4,4,4,2,3,1,3,1,1,1,4,4,1,3,1,5,4,4,4,3,3,2,2,2,3,2,6,3,3,5,4,4,5,5,5,6,2,4,6,4,4,5,1,2,2,2,1,1,1,1,1,1,2,1,1,1,1,3,3,2,2,3,2,2,1,2,3,2,3,4,3,2,2,3,4,3,4,2,1,2,4,,3,1,3,3,1,3,1,1,2,3,2,1,4,1,3,2,2,2,1,1,1,2,4,2,2,3,2,2,3,3,3,2,2,5,5,"1,2",2,3,3,5,5,2,2,2,2,2,1,4,4,4,4,4,5,5,2,4,5,5,4,4,4,3,5,3,5,4,5,1,18
+8/31/2015 15:18,8/31/2015 15:41,0,100,1397,1,8/31/2015 15:41,R_3g0LUiVN9jxtR5o,,,,,anonymous,EN,228,3,3,4,3,3,5,4,5,4,4,4,4,3,4,5,6,2,3,3,5,5,3,4,3,4,2,1,2,2,2,2,3,2,4,3,4,3,3,3,3,3,5,6,6,6,2,7,7,3,7,7,5,6,2,3,6,3,6,6,4,6,3,3,3,5,2,1,1,2,3,2,2,3,2,2,2,4,3,3,1,4,4,2,4,3,4,1,4,4,2,2,3,3,4,2,4,4,2,4,3,3,4,2,3,3,3,3,3,3,3,4,3,3,3,3,3,3,3,3,3,2,3,3,3,3,2,4,3,4,4,2,2,3,2,5,5,"1,2",5,1,1,5,5,1,5,3,,5,1,4,1,5,3,2,3,4,1,5,5,3,2,3,4,4,2,4,3,4,2,2,19
+8/31/2015 15:23,8/31/2015 15:59,0,100,2139,1,8/31/2015 15:59,R_1nPBTnKyAQ9ozCd,,,,,anonymous,EN,230,5,5,5,5,3,2,3,4,5,5,5,5,5,5,6,6,4,5,5,5,6,2,3,4,1,4,1,5,1,4,4,1,1,1,4,4,5,3,2,3,2,5,6,6,6,2,7,6,1,5,6,3,5,3,3,3,3,3,5,2,5,5,7,7,4,3,2,3,3,3,3,3,3,3,4,3,2,3,1,1,2,1,3,1,3,3,1,3,1,3,3,2,2,2,3,2,2,3,2,2,2,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,2,2,3,"2,3","2,3","1,2",2,3,2,3,3,5,"2,3",3,3,3,3,3,5,5,2,2,2,2,2,2,2,1,1,1,2,2,1,1,1,2,2,2,2,2,2,18
+9/1/2015 9:31,9/1/2015 11:02,0,100,5470,1,9/1/2015 11:02,R_1QN4ToTcdzEAqTb,,,,,anonymous,EN,231,6,6,5,6,5,4,6,3,3,4,5,5,6,5,5,5,6,6,6,4,4,4,3,4,2,4,2,1,1,4,4,1,3,2,4,3,4,4,1,4,2,5,5,5,5,2,6,5,2,5,5,2,5,3,4,4,2,5,4,2,6,2,3,3,3,2,2,1,2,2,3,3,2,3,2,1,2,4,1,1,2,1,4,2,1,2,1,2,3,4,2,3,3,2,2,2,2,2,2,2,3,3,3,2,1,2,1,2,2,2,1,3,2,2,2,1,2,1,3,2,3,2,1,1,3,2,3,3,3,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,2,2,1,1,1,2,2,1,3,4,4,2,2,2,1,1,1,1,2,1,1,24
+9/1/2015 9:49,9/1/2015 11:21,0,100,5481,1,9/1/2015 11:21,R_BLiJ6x5IGIzm3jr,,,,,anonymous,EN,232,6,6,5,6,4,5,6,6,4,5,4,6,6,5,6,6,4,3,5,6,6,4,2,5,1,4,1,1,1,5,4,2,4,1,4,4,4,4,4,4,1,4,5,5,5,1,7,6,1,7,7,2,6,2,2,5,1,2,5,2,6,5,5,6,5,3,1,1,1,2,2,2,1,1,1,1,4,3,1,1,1,1,3,1,1,1,1,1,1,1,1,1,3,1,3,3,1,1,1,3,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,2,1,1,2,4,4,3,3,3,4,5,3,"1,3","1,2,3",5,"1,2,3",3,5,5,3,5,5,5,3,5,5,1,2,1,2,1,2,3,1,1,1,2,3,1,1,1,1,1,5,1,1,3,1,20
+9/1/2015 9:37,9/1/2015 11:23,0,100,6392,1,9/1/2015 11:23,R_1dmkjHQiXtJlXEx,,,,,anonymous,EN,233,4,2,5,3,5,2,5,3,1,2,2,2,2,5,5,6,6,6,6,6,1,2,2,2,5,1,5,2,3,1,1,1,4,3,2,1,4,3,4,4,1,4,4,5,5,3,6,6,2,6,6,4,1,6,5,1,5,6,4,6,5,5,4,2,4,4,1,1,1,1,1,1,1,1,1,1,4,3,1,1,1,2,2,1,1,1,1,4,4,2,1,1,4,4,3,4,2,1,1,4,3,4,1,4,1,4,2,3,3,2,1,4,1,1,1,1,3,1,4,1,4,1,1,3,3,3,1,1,4,3,2,"2,3","1,2,3","1,2,3","1,2,3","2,3","1,3","1,3","1,3","1,3",3,3,"2,3","3,5",2,2,5,"2,5",1,1,1,1,3,3,3,1,2,2,2,4,4,4,1,1,2,1,3,1,2,18
+9/1/2015 11:06,9/1/2015 11:36,0,100,1846,1,9/1/2015 11:36,R_2qCWB04sAuZPfgC,,,,,anonymous,EN,234,6,6,4,4,5,5,5,6,5,5,6,6,5,6,6,6,6,5,5,4,6,4,3,4,2,4,1,2,1,3,4,2,4,1,4,4,5,4,3,4,3,7,7,7,7,1,7,7,1,6,7,2,6,2,4,4,4,4,5,2,6,5,3,5,6,2,1,1,2,3,2,1,2,5,1,1,2,3,1,2,3,2,3,1,2,2,2,3,3,4,3,1,3,4,4,3,3,2,4,2,4,3,2,3,3,2,1,3,2,1,3,1,1,2,4,2,1,1,1,2,1,2,2,2,3,3,4,2,2,3,3,4,1,1,2,3,3,5,3,3,"1,4",5,5,5,3,3,5,1,3,3,2,3,2,4,4,1,2,1,4,5,3,2,1,2,3,3,4,5,2,26
+9/1/2015 11:34,9/1/2015 11:46,0,100,759,1,9/1/2015 11:46,R_1BQ7VKzwzhzd4wn,,,,,anonymous,EN,235,6,3,6,6,6,4,5,5,5,5,5,5,3,1,5,5,5,6,6,2,1,5,4,5,3,4,2,2,3,3,4,3,4,2,4,4,4,4,4,4,2,4,4,4,1,6,6,7,2,5,7,5,2,4,5,3,2,6,2,5,2,1,2,2,5,1,2,4,4,5,5,1,5,5,1,1,3,3,1,3,2,2,2,1,1,2,3,3,2,3,2,2,3,3,1,3,3,4,4,3,4,2,4,4,2,2,3,3,4,3,3,2,3,3,4,4,2,2,4,3,1,4,4,4,4,4,2,3,1,3,3,5,5,"1,2,3",3,3,3,5,5,5,5,5,3,5,3,5,5,3,4,1,1,4,3,4,1,1,1,1,4,1,1,1,1,1,5,2,1,1,1,28
+9/1/2015 11:26,9/1/2015 11:50,0,100,1447,1,9/1/2015 11:50,R_1P8cAEVf2tlj7cy,,,,,anonymous,EN,236,6,6,4,5,4,5,5,4,5,4,6,5,6,5,4,6,6,5,6,4,6,4,2,5,1,5,1,3,3,5,5,3,5,1,4,4,5,5,3,4,2,6,6,7,7,1,7,7,4,7,7,3,6,3,2,6,1,4,4,6,6,6,6,6,7,7,1,2,3,3,5,2,4,3,1,1,3,3,2,1,4,1,4,1,1,3,1,3,1,4,4,1,3,1,3,4,2,3,3,3,3,1,4,1,4,1,1,3,2,1,2,1,1,1,1,1,1,1,3,3,1,2,,2,2,3,3,3,2,3,4,3,3,3,1,3,3,3,"1,3",3,3,3,3,3,3,3,3,1,3,2,1,4,4,4,4,2,5,4,2,2,3,1,3,1,5,2,2,1,2,18
+9/1/2015 11:38,9/1/2015 11:52,0,100,864,1,9/1/2015 11:52,R_2QXTNfS899QdPvq,,,,,anonymous,EN,237,6,6,1,5,4,4,5,4,4,5,6,6,6,6,5,4,2,6,6,6,5,3,1,4,2,5,1,1,1,4,5,1,4,1,5,1,5,5,1,4,1,7,7,7,7,1,7,7,1,6,7,1,4,2,2,4,2,4,5,2,4,7,7,7,7,4,5,5,5,5,5,5,5,5,5,5,1,4,1,1,3,1,4,1,1,3,1,2,1,1,1,1,3,1,1,4,1,3,1,3,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,2,1,1,1,4,5,5,3,5,5,5,5,5,5,5,5,"2,3",5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17
+9/1/2015 11:51,9/1/2015 12:05,0,100,848,1,9/1/2015 12:05,R_73SstDGqXLAGhBT,,,,,anonymous,EN,239,6,4,3,3,4,2,1,1,1,6,6,5,5,5,2,3,3,1,6,3,1,4,2,1,4,3,1,1,1,1,2,4,3,1,2,3,5,3,1,1,1,1,1,1,1,7,4,4,5,1,5,7,1,6,2,1,2,6,1,6,1,2,2,3,3,1,1,1,1,1,1,1,1,1,1,1,4,4,1,1,2,1,4,1,1,2,1,3,3,4,2,1,3,1,1,3,2,1,1,3,4,1,1,1,1,3,1,1,4,4,3,1,1,1,3,1,1,1,4,1,4,,1,2,1,3,1,1,2,2,3,5,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,5,3,1,1,3,1,4,4,5,5,1,4,1,5,4,3,2,4,3,1,1,2,19
+9/1/2015 11:47,9/1/2015 12:05,0,100,1081,1,9/1/2015 12:05,R_3OqQRjal7Zn1BO2,,,,,anonymous,EN,238,5,4,2,6,2,6,5,6,3,3,6,3,3,6,6,6,6,1,5,3,4,4,4,3,4,3,1,3,1,3,3,4,5,1,4,4,5,5,3,5,3,5,6,6,4,4,7,7,1,7,7,1,4,3,5,6,1,5,6,1,6,5,5,5,5,7,1,1,1,1,2,1,1,1,1,1,4,3,1,2,4,1,3,1,4,4,1,3,4,3,4,1,2,4,4,3,4,1,4,3,3,1,1,1,1,2,2,3,3,1,4,2,2,3,3,1,4,4,2,1,1,3,3,3,3,3,4,2,4,4,3,3,3,"1,2",3,3,2,3,3,"1,3",3,3,2,2,3,3,3,1,1,1,1,4,3,1,1,1,3,1,1,1,2,1,1,1,1,1,1,3,2,18
+9/1/2015 11:53,9/1/2015 12:26,0,100,1970,1,9/1/2015 12:26,R_BQwOYULgDL177a1,,,,,anonymous,EN,240,6,6,5,5,6,6,6,4,4,6,6,6,6,6,6,6,4,1,6,6,6,5,3,5,1,4,2,3,1,5,5,1,4,1,5,5,5,5,2,3,2,6,5,6,5,2,7,6,2,6,7,5,6,5,5,5,2,5,6,5,6,3,3,5,5,2,1,1,1,1,1,1,1,1,1,1,3,2,1,2,1,1,2,1,1,1,1,1,2,2,2,1,3,2,3,1,1,1,1,3,3,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,3,2,3,3,3,5,5,1,5,5,5,5,5,5,1,5,5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,40
+9/1/2015 12:07,9/1/2015 12:33,0,100,1569,1,9/1/2015 12:33,R_3fklNZQw1ShwuYP,,,,,anonymous,EN,241,5,5,5,6,3,2,5,3,2,4,4,3,6,5,5,5,5,4,3,5,3,4,4,3,2,4,4,2,1,3,4,5,4,2,4,5,5,4,3,2,4,6,3,3,6,4,7,7,4,4,5,5,4,4,6,5,4,3,5,3,5,4,5,6,7,3,1,1,1,2,3,1,2,4,1,1,3,2,1,1,1,1,3,2,3,1,1,3,4,3,1,1,3,1,1,3,3,2,1,2,3,3,2,1,2,1,2,2,1,3,3,2,1,1,3,3,2,1,2,4,1,3,2,2,2,3,2,2,3,3,3,5,5,1,5,5,2,5,5,1,5,5,2,5,5,5,5,5,2,3,2,2,1,2,2,4,2,2,1,1,2,2,3,1,3,2,2,3,2,18
+9/2/2015 8:58,9/2/2015 11:10,0,100,7964,1,9/2/2015 11:10,R_2Bb9St5mH1rgwYs,,,,,anonymous,EN,242,6,6,6,6,6,6,6,6,5,6,6,6,6,6,6,6,6,6,6,6,6,4,2,5,1,4,1,1,1,5,4,1,2,1,5,4,5,5,1,5,1,6,6,7,6,1,7,7,1,7,7,2,6,2,2,5,1,3,6,1,6,6,7,7,7,7,1,2,3,4,3,2,3,2,3,2,2,3,1,1,2,1,3,1,1,3,1,3,2,3,2,1,3,1,2,3,2,2,3,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,3,1,2,1,3,5,3,5,5,5,3,3,3,3,3,3,3,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,20
+9/1/2015 12:07,9/2/2015 11:29,0,100,84125,1,9/2/2015 11:29,R_2Bm8k5n6jGF0Ul7,,,,,anonymous,EN,243,5,5,4,4,5,5,4,5,5,5,5,5,5,5,5,5,4,6,5,5,4,3,2,4,1,3,1,3,1,3,5,1,4,1,4,3,4,4,2,4,1,6,6,6,6,1,7,7,1,7,7,7,5,2,2,5,2,3,5,2,5,6,6,6,6,5,2,2,3,5,5,5,5,5,5,4,2,2,1,1,1,1,2,1,1,1,1,2,1,2,1,1,2,1,1,2,1,2,1,2,2,1,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,4,4,4,4,3,3,1,5,5,5,5,5,1,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,18
+9/2/2015 11:12,9/2/2015 11:29,0,100,1022,1,9/2/2015 11:29,R_12nhvA6GeofPoB8,,,,,anonymous,EN,245,6,2,4,6,1,2,5,2,4,5,5,6,2,6,6,6,6,1,3,5,1,5,5,5,5,2,5,2,1,4,3,1,3,5,4,5,5,5,2,3,3,1,1,1,1,4,7,7,3,3,2,1,4,6,5,4,5,3,5,6,2,4,4,2,2,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,4,1,3,2,1,1,4,4,2,1,1,1,1,4,1,1,1,1,4,4,1,1,1,1,4,1,3,1,1,4,1,1,3,4,3,3,1,1,4,2,3,2,1,1,2,1,3,3,3,1,3,1,3,3,1,3,3,1,3,3,"2,3",2,2,2,1,2,5,5,5,5,5,1,1,5,5,5,5,1,5,1,1,4,1,5,5,2,2,18
+9/2/2015 8:57,9/2/2015 11:32,0,100,9258,1,9/2/2015 11:32,R_11ZpHjXFiF5oB1l,,,,,anonymous,EN,244,5,4,5,5,1,6,5,5,6,5,5,5,4,5,6,5,6,1,5,5,4,4,2,3,2,4,1,2,1,4,4,2,4,2,3,5,5,4,3,4,2,6,5,6,6,2,5,5,3,5,6,3,5,3,3,6,2,4,5,1,5,4,5,5,2,3,1,1,1,1,1,1,1,1,1,1,2,4,1,2,4,1,4,1,1,3,1,2,3,4,4,1,2,3,3,4,3,1,2,3,3,1,1,2,2,1,2,2,3,1,2,2,3,2,2,3,1,2,1,2,1,2,3,2,1,4,4,3,3,4,4,1,5,3,5,5,"1,4,5","4,5","4,5",1,3,5,2,"3,4","3,4",3,5,5,2,1,3,3,3,4,4,4,3,3,3,1,1,1,2,1,1,2,1,2,2,30
+9/2/2015 11:30,9/2/2015 11:45,0,100,907,1,9/2/2015 11:45,R_3oGZO3KoEY7WbuG,,,,,anonymous,EN,246,5,5,3,6,2,6,4,5,6,6,4,5,5,5,4,6,6,6,4,6,6,4,5,5,4,3,2,3,1,4,3,1,2,1,3,4,5,4,4,3,2,5,5,7,6,2,7,1,6,7,7,5,5,5,4,6,1,2,4,1,6,7,7,7,6,7,1,2,4,4,3,5,3,4,3,3,4,4,1,1,4,2,3,1,2,4,1,3,3,4,4,2,3,3,4,3,4,4,4,3,3,3,3,1,3,2,1,3,1,2,2,1,1,1,1,1,3,1,4,1,1,1,1,1,3,3,4,2,3,4,4,3,3,3,3,5,3,3,3,3,3,3,2,3,3,3,5,,2,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,18
+9/2/2015 11:32,9/2/2015 11:59,0,100,1598,1,9/2/2015 11:59,R_2CIoTvA41LC9YpY,,,,,anonymous,EN,248,5,6,6,5,5,5,5,6,5,6,5,5,4,4,5,2,5,5,5,3,4,3,2,4,3,4,1,1,1,3,4,3,3,1,4,2,3,3,3,3,1,7,7,7,6,1,7,7,1,6,6,4,5,1,1,6,1,2,5,3,5,5,4,6,6,5,4,4,4,5,5,4,5,3,3,3,3,3,2,1,4,1,4,2,3,4,1,4,3,3,3,2,4,2,3,3,4,4,4,4,3,2,4,2,2,1,1,2,1,1,2,1,1,1,1,2,1,2,2,2,1,1,1,1,2,3,3,3,2,3,4,3,3,1,3,5,2,5,5,5,"3,5",3,2,2,5,1,3,1,4,4,4,3,2,4,3,1,1,1,1,1,1,1,1,1,2,2,2,2,2,29
+9/2/2015 11:31,9/2/2015 12:00,0,100,1717,1,9/2/2015 12:00,R_2XalrSVdHqX66dC,,,,,anonymous,EN,249,4,3,4,4,1,5,1,4,2,3,1,4,4,5,6,5,4,1,3,4,5,5,2,5,1,2,5,3,1,5,3,1,3,5,,1,4,,2,3,2,1,6,5,5,2,7,7,1,7,7,6,5,4,5,6,2,5,4,2,5,2,3,3,5,2,1,1,1,1,1,1,1,1,1,1,4,2,2,1,3,2,3,1,2,2,1,2,4,3,3,2,3,4,4,2,1,1,2,2,2,4,1,4,4,2,4,4,3,1,2,2,1,1,3,2,3,2,1,1,1,1,2,2,1,4,4,1,4,4,4,3,3,3,3,2,2,3,3,"1,2,3",5,5,"2,3","1,2,3",3,3,5,"1,2,3",2,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,2,18
+9/2/2015 11:28,9/2/2015 12:01,0,100,1927,1,9/2/2015 12:01,R_oXGgzggfSnJp10l,,,,,anonymous,EN,247,6,6,4,5,6,4,4,6,2,5,6,4,5,5,3,4,5,4,5,5,4,4,2,4,3,4,1,3,1,4,2,2,4,1,4,3,4,4,3,3,2,6,5,6,7,1,7,7,2,6,7,4,3,2,5,5,4,5,4,4,6,6,6,7,6,7,2,1,4,3,4,4,4,4,3,1,4,2,1,1,3,1,3,1,1,4,1,2,3,3,2,2,3,4,1,4,2,4,4,4,2,1,3,2,2,1,1,2,2,2,1,1,1,1,2,1,3,2,3,3,1,2,1,3,1,3,2,1,3,2,3,3,"2,3","1,2,3",3,3,"2,3",3,5,5,3,5,"2,3",5,3,3,5,5,2,1,1,2,2,1,2,1,1,1,2,2,3,2,2,1,1,1,1,1,2,18
+9/2/2015 11:46,9/2/2015 12:20,0,100,2083,1,9/2/2015 12:20,R_TctyKwqQh0ESnsd,,,,,anonymous,EN,250,6,6,4,6,4,3,5,5,,3,5,5,5,6,6,6,5,5,5,5,5,,4,5,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,4,4,4,7,4,4,7,7,5,6,7,4,5,2,5,4,2,5,5,2,5,5,6,5,5,5,1,1,1,1,1,1,1,1,1,1,2,3,4,4,4,4,4,2,4,4,4,4,4,3,3,1,,4,1,3,3,1,4,4,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,3,4,4,4,3,4,4,"2,3","3,5","1,2,3","1,2","3,5","1,2,3",3,3,3,3,3,"2,3",3,3,"1,3",3,5,5,4,4,4,4,1,1,1,4,4,4,2,4,4,4,5,3,3,4,4,1,18
+9/2/2015 12:21,9/2/2015 13:18,0,100,3379,1,9/2/2015 13:18,R_2PcURyCTcpbxlln,,,,,anonymous,EN,251,4,5,4,5,6,5,4,5,5,3,4,5,3,4,5,3,4,6,4,3,4,4,2,4,2,3,1,2,1,5,2,2,1,1,4,2,3,4,1,4,2,5,7,6,5,1,7,6,1,7,7,3,5,1,1,6,1,3,5,1,5,5,6,3,6,2,5,3,4,5,4,5,5,5,5,3,2,3,1,1,2,1,3,1,3,3,1,1,2,3,4,1,2,1,2,3,2,3,3,4,4,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,2,4,4,4,4,4,4,"1,2,3","2,3","1,2,3","2,3",3,3,3,3,3,3,3,2,3,3,3,3,"1,2,3",2,1,1,1,1,1,1,1,1,3,1,1,1,1,3,3,2,1,2,1,1,18
+9/2/2015 11:59,9/2/2015 13:23,0,100,5005,1,9/2/2015 13:23,R_1PZE2cUp9LZhaFh,,,,,anonymous,EN,253,4,5,4,4,5,4,2,5,6,5,4,6,5,5,4,6,4,5,5,5,5,3,3,3,4,4,3,4,3,4,3,3,3,2,3,5,4,4,3,3,4,6,6,6,6,1,6,6,2,6,6,2,6,2,3,6,1,4,6,1,6,3,5,5,3,3,4,3,4,4,3,3,2,5,2,2,4,2,2,1,2,3,2,2,4,2,1,4,3,3,2,3,3,2,4,2,3,3,2,4,3,4,4,2,1,1,1,3,3,1,4,1,3,1,3,1,3,3,1,1,1,2,1,1,1,3,3,3,2,2,3,1,,1,,,,,,1,1,,,,,,,,3,1,2,4,4,5,5,2,5,5,5,2,2,2,2,3,2,2,4,2,2,20
+9/2/2015 12:01,9/2/2015 13:28,0,100,5256,1,9/2/2015 13:28,R_vTVH53bYvIwk1Ud,,,,,anonymous,EN,252,5,5,6,6,6,4,,6,5,5,6,6,6,5,4,6,5,6,6,5,4,3,4,4,4,4,1,1,1,2,4,4,3,1,3,1,4,3,4,5,1,7,7,5,5,2,5,2,2,3,6,5,4,2,2,2,4,4,3,2,5,6,3,6,,6,4,4,5,5,5,4,4,4,4,3,3,4,1,2,3,1,3,1,1,2,2,3,1,3,2,1,3,3,2,4,1,2,1,3,1,1,4,2,2,3,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,1,2,1,3,1,1,3,2,3,"1,2,4","1,4","1,2",1,4,"1,2,3","1,2,4","1,2",2,"1,4",3,1,"2,4","2,4","2,4","4,5",5,1,1,1,2,1,1,1,2,1,1,1,2,3,4,2,2,2,1,2,1,1,36
+9/2/2015 13:24,9/2/2015 13:38,0,100,849,1,9/2/2015 13:38,R_3rHZPo7eHQRC5Bn,,,,,anonymous,EN,255,4,3,5,3,1,6,6,2,1,1,3,2,2,4,4,6,6,1,2,2,6,3,4,4,2,1,5,4,3,3,1,4,2,4,4,4,4,3,5,4,4,2,2,1,4,4,6,6,3,4,6,6,4,6,6,1,6,5,4,6,2,1,3,2,4,1,1,1,1,1,1,1,1,1,1,1,4,4,4,3,4,1,3,4,1,2,3,4,4,4,2,4,4,4,3,4,4,,1,4,4,4,1,4,4,1,1,3,4,2,4,4,4,4,2,2,2,3,1,3,1,4,4,1,2,3,2,1,1,1,3,5,5,1,5,5,5,5,3,3,3,5,5,5,3,5,1,1,4,4,1,5,5,5,5,1,5,5,5,4,4,4,5,5,5,5,5,5,2,18
+9/2/2015 13:19,9/2/2015 13:46,0,100,1607,1,9/2/2015 13:46,R_DTP9pLNC41QqgUx,,,,,anonymous,EN,254,6,6,4,1,2,6,5,6,6,5,6,6,6,6,6,6,5,1,5,6,3,5,1,4,1,4,1,1,1,3,4,1,5,1,2,1,4,4,2,4,1,4,5,6,4,2,7,7,1,6,7,1,5,2,1,6,2,3,5,1,6,5,6,6,6,4,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,3,1,1,2,1,3,1,1,2,1,3,2,2,4,1,1,2,2,2,1,1,2,2,1,1,1,2,1,1,1,1,1,2,1,1,1,1,2,1,1,1,1,2,3,3,2,2,4,4,"1,2,3",3,"2,3",5,5,3,5,3,3,5,5,"2,3",5,3,5,5,3,1,1,2,2,2,1,2,1,1,1,1,1,2,1,1,1,2,1,2,2,2,18
+9/2/2015 13:43,9/2/2015 14:15,0,100,1905,1,9/2/2015 14:15,R_TnpqFbw47bIt201,,,,,anonymous,EN,256,5,5,5,4,5,5,4,3,3,4,4,5,4,5,5,5,4,4,4,4,3,3,3,2,2,3,1,1,1,3,3,4,2,1,4,4,3,2,3,3,2,6,6,6,6,2,6,6,2,6,6,5,5,4,5,5,3,4,3,4,5,3,6,5,4,2,2,2,3,3,3,3,3,3,3,2,3,3,2,2,3,2,3,1,1,3,2,3,2,2,3,3,4,1,2,3,3,3,3,3,2,2,3,1,1,2,1,2,3,1,3,2,1,2,3,1,3,2,2,2,1,2,2,4,3,3,3,2,3,3,3,3,3,2,5,2,2,5,5,5,5,5,2,5,2,5,5,5,2,1,1,3,1,3,4,1,1,3,2,2,2,2,2,1,1,1,2,2,2,20
+9/2/2015 14:04,9/2/2015 14:29,0,100,1534,1,9/2/2015 14:29,R_12mQZhypeiJwABE,,,,,anonymous,EN,258,5,5,6,6,5,4,5,5,4,4,5,4,5,5,6,6,5,5,5,5,5,4,4,4,3,2,2,3,1,4,4,1,4,1,4,5,5,4,3,3,3,6,6,6,5,1,7,7,1,6,7,2,5,2,3,6,1,5,5,1,6,6,5,6,6,2,3,1,3,4,3,3,3,3,4,2,4,4,1,1,3,3,4,1,1,3,1,3,3,3,3,1,3,4,4,3,3,3,3,3,3,2,3,1,3,1,3,2,3,1,4,2,4,3,3,4,3,3,1,3,1,1,3,2,2,3,4,2,3,3,3,"1,2",5,2,5,5,3,5,5,5,3,5,"2,3",5,5,5,5,"1,2,3",3,4,2,3,3,4,3,5,3,3,4,3,2,3,1,1,4,3,2,3,2,18
+9/2/2015 13:43,9/2/2015 14:30,0,100,2787,1,9/2/2015 14:30,R_0Vujsn5GzATk4Wl,,,,,anonymous,EN,257,5,4,1,6,5,3,4,3,4,5,5,6,4,5,6,6,5,4,6,3,4,4,3,4,2,4,1,2,1,4,3,3,5,1,4,3,5,5,2,4,1,6,6,6,7,1,6,6,2,7,7,5,4,4,2,5,2,5,4,4,5,3,6,5,5,3,1,1,2,4,3,2,2,1,1,1,4,4,1,1,3,1,3,1,1,4,2,3,1,4,3,1,4,1,3,4,1,2,4,4,4,1,2,1,1,1,2,1,2,1,2,1,1,1,3,3,1,1,1,1,1,2,1,2,2,4,4,4,3,4,4,3,5,3,5,5,4,5,5,5,5,5,3,5,5,5,5,1,2,1,1,2,2,4,1,1,1,2,1,2,2,1,1,1,4,2,1,3,2,22
+9/2/2015 14:16,9/2/2015 14:42,0,100,1582,1,9/2/2015 14:42,R_2rJCEpD82KtEQ0D,,,,,anonymous,EN,259,5,5,4,4,4,5,5,6,3,4,5,5,5,4,6,4,5,5,3,5,5,5,3,4,2,4,3,4,1,3,3,1,5,3,4,5,4,5,2,4,4,5,4,5,5,1,7,7,2,6,6,4,5,2,4,5,1,5,5,2,6,6,6,6,5,6,1,2,1,3,4,2,2,1,1,1,3,4,1,1,3,1,4,1,2,2,1,3,2,2,3,1,3,1,2,3,2,2,2,3,4,1,4,1,2,1,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,2,1,1,1,2,3,2,1,3,4,3,5,3,3,5,3,3,3,5,5,5,"2,3",5,5,5,5,1,3,1,1,1,1,3,1,1,4,2,3,1,1,1,1,1,2,1,1,1,1,18
+9/2/2015 11:28,9/2/2015 14:46,0,100,11900,1,9/2/2015 14:46,R_11XjdOm10uqyH9k,,,,,anonymous,EN,261,5,5,2,4,6,1,1,1,1,5,5,6,6,6,5,5,5,6,3,3,1,3,3,4,4,4,1,4,1,4,4,1,2,3,2,3,3,2,1,4,2,2,2,2,2,7,6,7,2,7,7,5,5,2,5,6,6,6,4,2,6,2,4,3,2,2,1,1,5,4,5,2,2,4,1,1,3,2,1,2,1,4,2,1,1,1,2,3,4,1,1,3,3,3,2,3,1,4,3,2,3,4,4,3,2,2,2,2,1,2,2,2,1,1,1,1,2,1,1,1,2,2,2,1,2,3,3,3,3,3,3,3,"3,5",1,5,3,5,5,5,5,3,5,3,5,5,5,5,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20
+9/2/2015 14:31,9/2/2015 14:50,0,100,1092,1,9/2/2015 14:50,R_25GRFZxO4DaXFno,,,,,anonymous,EN,262,6,1,3,2,1,4,6,4,4,5,5,4,6,6,5,5,4,1,6,5,6,5,4,5,3,3,5,2,3,5,5,3,5,4,5,3,5,5,2,4,1,6,6,4,7,1,4,4,5,,7,2,6,2,6,5,5,2,5,3,6,4,3,4,3,7,1,1,1,1,1,1,1,1,1,1,4,2,1,4,4,1,3,1,3,4,4,4,4,3,4,1,2,4,3,3,3,1,3,3,3,4,1,4,2,2,1,3,4,3,1,3,2,4,4,1,4,4,4,1,1,2,2,2,3,3,3,1,1,4,3,3,5,"2,3","1,2,3",5,"1,2,3",1,"2,3",1,5,"1,5","3,5","2,3,4",5,5,5,1,5,5,2,5,5,5,4,5,5,2,5,5,5,5,5,5,5,5,5,5,1,21
+9/2/2015 14:26,9/2/2015 14:52,0,100,1555,1,9/2/2015 14:52,R_24CzE9gyy33jE6f,,,,,anonymous,EN,260,6,6,5,5,4,5,5,5,4,5,6,5,6,6,6,5,5,5,6,6,6,4,3,5,3,4,3,5,1,4,5,2,3,1,5,5,5,4,4,5,4,6,6,7,6,1,7,7,1,6,7,5,5,2,2,6,1,2,5,1,5,6,7,7,6,5,2,4,4,3,2,5,3,4,4,4,2,3,1,1,4,1,4,1,1,1,1,4,2,3,3,1,4,4,3,4,2,3,3,4,4,1,2,3,4,1,1,2,2,1,2,1,1,1,2,1,1,3,1,1,1,2,3,2,1,1,3,1,3,4,4,"1,2,3","2,3","1,2,3",2,3,3,3,5,5,3,5,"2,3","2,3",3,3,3,5,1,1,1,2,1,2,1,1,1,3,1,1,1,1,1,1,3,2,1,1,2,19
+9/2/2015 14:48,9/2/2015 15:02,0,100,822,1,9/2/2015 15:02,R_2Cwd8XwNSiiKOJw,,,,,anonymous,EN,264,5,1,1,4,1,6,6,6,6,1,3,1,2,5,6,6,3,1,1,6,4,4,5,3,5,2,4,5,1,3,3,3,2,4,4,5,2,3,5,1,4,1,1,1,4,4,6,6,3,5,6,2,3,4,5,5,1,5,5,2,6,1,2,3,2,1,1,1,1,1,1,1,1,1,1,1,4,3,1,1,,3,2,1,3,4,1,1,4,3,4,3,1,3,4,2,3,1,2,2,3,4,1,2,4,3,4,4,4,3,4,4,1,3,4,4,3,4,2,1,2,1,3,4,2,2,4,3,3,4,2,1,1,3,5,5,1,5,5,5,5,5,1,5,5,1,5,5,2,1,3,4,5,5,5,1,3,1,5,1,3,1,1,1,5,5,2,5,2,18
+9/2/2015 14:33,9/2/2015 15:09,0,100,2115,1,9/2/2015 15:09,R_3rHgMiaeHK9gGUV,,,,,anonymous,EN,263,4,4,5,4,2,2,5,3,3,4,5,5,4,6,1,3,5,1,4,4,6,4,2,4,3,3,4,2,1,3,5,1,5,4,3,2,3,4,2,4,2,5,3,6,7,2,6,6,2,6,7,5,4,6,5,4,6,5,5,5,3,5,5,2,2,1,1,1,1,1,1,3,1,1,1,1,4,3,2,1,2,1,3,1,2,2,1,3,2,1,1,1,3,4,4,3,3,1,1,3,2,2,1,4,2,1,1,2,2,1,1,1,2,2,2,3,3,1,1,2,1,2,3,3,3,3,3,4,2,4,3,5,5,3,3,5,"1,2,3",5,"1,3","1,3",3,5,3,"1,2,3",5,3,5,"1,2,3",2,1,1,5,1,4,1,3,4,4,3,1,3,4,2,1,4,1,1,1,2,18
+9/2/2015 14:49,9/2/2015 15:26,0,100,2210,1,9/2/2015 15:26,R_2wmLMaigIssBl7N,,,,,anonymous,EN,265,6,5,5,5,4,4,6,2,2,4,5,5,5,6,6,3,4,1,6,4,4,4,3,5,2,5,1,4,1,4,3,1,5,1,5,5,4,4,4,3,5,6,6,6,5,2,7,7,1,6,7,6,6,6,6,5,5,6,6,5,2,5,5,5,4,2,1,1,1,1,1,1,1,1,1,1,3,2,1,3,2,3,3,1,1,1,3,3,2,3,1,2,3,3,2,3,1,1,1,3,2,1,1,1,1,1,3,2,2,1,3,1,1,3,3,3,2,3,1,1,1,1,3,3,2,2,3,1,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,1,4,1,4,4,4,4,4,1,3,1,4,1,4,1,1,1,4,4,4,4,2,19
+9/3/2015 9:08,9/3/2015 11:14,0,100,7519,1,9/3/2015 11:14,R_phfQzVR0ULWhETn,,,,,anonymous,EN,266,6,6,6,6,6,4,6,5,4,5,6,6,6,6,6,6,5,6,5,6,6,5,2,5,2,5,1,4,1,4,4,2,3,1,5,3,5,5,1,4,1,7,7,7,7,1,7,6,1,7,7,1,5,4,6,6,6,5,6,4,5,3,2,3,5,4,3,2,3,5,5,5,2,5,4,2,4,4,1,1,3,1,4,1,1,3,1,3,2,3,3,1,4,1,2,3,2,4,2,4,4,1,4,1,1,2,1,1,2,1,2,1,3,1,4,3,3,2,2,2,1,3,1,1,1,3,4,3,4,4,4,,,3,,,"1,2","1,2",3,,,1,,3,,3,3,,1,1,1,2,1,5,4,5,1,1,1,1,1,1,1,1,4,4,3,5,2,23
+9/3/2015 10:17,9/3/2015 11:20,0,100,3781,1,9/3/2015 11:20,R_1pmzgkzeyMVF7Rh,,,,,anonymous,EN,267,4,4,3,5,2,6,2,5,4,4,4,4,4,3,4,4,4,1,5,5,5,4,1,3,2,3,1,1,1,4,3,2,2,1,2,2,3,4,2,2,1,4,3,6,3,4,7,7,1,6,7,1,5,3,1,6,1,3,4,1,6,6,7,6,7,7,1,1,1,1,1,1,1,1,1,1,3,3,1,1,2,1,3,1,1,3,1,3,2,3,3,1,3,2,3,4,2,1,3,3,3,2,1,2,1,1,1,2,1,1,2,1,2,1,1,1,2,2,1,2,1,2,2,1,1,3,4,3,3,4,4,3,3,3,3,5,3,3,5,5,5,5,"2,3",5,3,5,5,5,2,1,1,3,1,4,2,1,1,1,2,1,1,1,1,1,1,1,1,1,2,19
+9/3/2015 10:19,9/3/2015 11:24,0,100,3944,1,9/3/2015 11:24,R_1PZRPIHE6ChlZ8q,,,,,anonymous,EN,268,5,2,5,3,4,2,4,2,2,4,3,4,2,4,6,5,5,2,2,6,2,4,2,4,2,2,1,3,2,3,2,2,3,4,4,4,4,3,4,5,1,1,3,4,4,5,6,7,2,7,7,4,5,3,6,4,3,5,5,4,4,2,3,4,5,2,1,1,2,1,1,2,1,1,1,1,4,3,3,3,2,1,2,1,2,2,3,2,4,3,3,2,2,4,4,2,2,1,2,3,3,4,1,4,2,2,2,4,3,2,3,4,4,1,2,3,2,3,3,3,4,3,3,2,1,3,2,2,3,2,3,"1,2,3",5,"2,3",5,5,1,5,5,1,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,2,4,2,4,5,3,4,4,4,2,18
+9/3/2015 11:15,9/3/2015 11:34,0,100,1096,1,9/3/2015 11:34,R_UMzk7JchKml6dI5,,,,,anonymous,EN,269,5,5,4,5,4,4,5,4,4,2,2,2,3,4,2,3,3,3,3,5,5,3,3,3,3,3,2,4,4,3,3,3,3,3,3,4,3,3,3,3,4,5,4,5,4,4,6,4,3,4,6,6,4,4,5,5,3,4,5,3,5,5,5,4,7,2,1,1,2,2,3,1,2,1,1,1,2,2,1,3,3,3,2,2,3,3,2,2,4,3,3,2,4,2,3,4,4,2,3,4,4,4,3,4,1,1,1,1,3,4,3,2,3,3,2,3,3,2,2,2,1,1,1,1,2,3,3,2,3,3,3,4,4,1,"1,2",4,1,4,4,1,4,4,1,1,4,4,4,1,2,2,1,3,2,4,4,1,3,3,3,3,2,2,4,2,3,2,2,1,2,24
+9/3/2015 11:38,9/3/2015 11:59,0,100,1271,1,9/3/2015 11:59,R_r6jrVydcoFxbJRv,,,,,anonymous,EN,272,5,5,6,6,5,2,5,2,2,6,5,5,5,6,6,5,5,1,5,6,3,5,4,5,2,5,1,2,1,4,3,1,4,1,5,4,5,5,5,5,1,2,4,3,3,2,7,7,1,7,7,1,5,4,5,5,3,6,5,5,5,6,7,7,7,6,1,1,1,1,1,1,1,1,1,1,3,3,1,1,1,1,3,1,1,1,1,1,2,3,1,1,2,1,1,4,1,1,1,3,1,1,1,1,1,1,1,1,3,1,3,1,1,2,4,1,2,1,1,3,1,2,1,1,1,1,1,1,1,3,2,5,3,2,5,5,2,3,3,3,5,5,1,3,5,5,5,5,4,2,5,4,2,4,1,1,3,2,4,2,1,1,2,3,1,1,1,1,1,18
+9/3/2015 11:33,9/3/2015 12:02,0,100,1692,1,9/3/2015 12:02,R_3hGX2VnyExOE6S8,,,,,anonymous,EN,271,6,6,4,5,6,6,5,4,3,5,6,5,6,3,4,2,3,6,5,6,4,4,5,3,2,2,4,2,1,3,1,1,3,2,4,3,5,2,1,2,1,7,5,4,3,4,7,6,1,7,5,4,3,2,2,5,2,5,4,1,5,6,6,7,6,7,2,1,2,5,4,3,3,2,2,1,2,3,1,1,1,1,2,1,1,1,1,3,3,3,1,2,1,2,3,1,1,2,2,1,1,1,3,1,1,1,2,1,1,1,2,1,1,1,1,1,1,2,1,1,1,2,2,1,3,1,1,1,1,2,1,3,3,3,3,3,3,5,3,5,3,5,3,3,5,3,5,5,1,1,1,2,1,3,3,2,1,1,1,1,2,1,1,1,1,2,2,1,2,18
+9/3/2015 11:24,9/3/2015 12:09,0,100,2727,1,9/3/2015 12:09,R_1F4ynYWiyjxTWEm,,,,,anonymous,EN,270,6,6,5,5,5,6,6,6,6,5,6,5,5,6,6,5,5,5,5,6,5,4,3,4,4,3,2,4,3,4,4,4,4,3,3,4,4,4,2,3,4,6,5,6,6,3,7,7,2,6,7,5,6,3,3,6,3,4,6,2,6,6,6,6,6,5,2,2,2,2,2,2,2,2,2,2,3,4,2,2,2,1,3,2,3,3,1,3,3,4,3,1,3,3,3,3,2,2,3,3,3,2,2,3,2,2,1,3,4,2,2,2,1,3,4,2,2,2,2,2,2,3,3,1,2,4,4,4,4,4,4,"1,2,3","1,2,3","1,2,3",3,5,5,5,5,5,3,5,"2,3",5,5,5,5,,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1,2,1,18
+9/3/2015 12:01,9/3/2015 12:27,0,100,1580,1,9/3/2015 12:27,R_pAuGZi4qH4b8A49,,,,,anonymous,EN,273,5,3,2,5,1,4,3,1,1,3,3,4,2,2,3,4,3,1,3,2,2,4,5,2,3,2,1,4,4,2,2,5,4,4,2,4,3,2,5,4,4,1,1,2,1,7,6,4,5,3,4,1,1,5,5,4,5,5,3,5,3,2,2,2,5,1,1,1,1,1,1,1,1,1,1,1,4,2,1,1,1,2,2,1,4,3,1,1,3,3,1,2,2,3,2,3,3,1,1,,3,3,1,3,1,3,1,1,1,3,2,3,3,3,3,1,1,3,2,1,2,3,4,1,4,2,1,1,1,3,2,1,1,"1,2",3,5,1,5,3,3,5,5,3,"1,2,3",5,5,5,"1,2,3",5,4,4,4,4,4,4,1,5,5,5,4,4,4,5,5,3,1,4,5,1,18
+9/3/2015 12:10,9/3/2015 12:28,0,100,1039,1,9/3/2015 12:28,R_Xv5vdRHtOJYGY25,,,,,anonymous,EN,275,6,5,4,3,4,3,5,4,3,5,5,4,4,4,5,6,6,2,6,4,3,4,4,4,3,5,3,4,2,3,3,3,5,2,3,5,5,5,5,3,4,5,5,4,5,4,6,5,4,3,3,3,5,4,5,4,4,5,6,4,4,4,4,5,4,3,1,1,2,1,1,2,1,1,1,1,4,3,1,1,2,2,2,2,2,1,1,1,3,3,2,2,3,3,3,3,1,1,2,2,2,3,1,1,1,2,2,2,3,2,4,3,2,3,4,3,2,2,2,2,2,3,3,2,3,2,2,2,3,3,3,"1,2",3,"1,2","1,2",5,"1,2,3","2,3",1,"1,2",5,5,"1,2",5,"2,3",2,5,"1,2",3,2,3,4,4,5,5,4,4,5,5,4,4,3,3,1,5,4,4,4,2,30
+9/3/2015 12:03,9/3/2015 12:29,0,100,1571,1,9/3/2015 12:29,R_U9geRhkiFFKr0pb,,,,,anonymous,EN,274,6,6,5,5,6,3,5,4,4,5,5,6,6,5,4,4,3,5,6,6,6,4,1,3,1,5,2,1,1,3,3,2,3,1,4,2,5,3,3,4,1,6,6,7,7,2,7,7,1,5,6,2,4,3,3,5,1,4,4,2,5,4,7,7,6,6,4,3,4,4,4,3,5,2,4,3,2,4,1,1,2,1,1,1,1,1,1,1,3,2,1,1,3,2,1,2,1,3,2,3,3,1,4,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,3,3,3,"2,3","2,3","1,2,3",2,,2,,,,,,2,2,,,,,1,1,1,2,2,3,3,1,1,1,1,2,1,1,1,1,1,1,1,1,1,21
+9/3/2015 12:27,9/3/2015 12:42,0,100,866,1,9/3/2015 12:42,R_2sU25J3SQ1uAZpF,,,,,anonymous,EN,280,6,6,6,6,4,3,5,3,2,5,6,6,6,6,4,2,6,3,1,3,1,4,1,3,1,5,1,1,1,1,4,4,5,2,5,3,5,5,3,5,3,7,7,7,7,1,4,6,1,1,6,3,6,6,2,6,1,1,6,5,3,6,3,3,3,1,1,1,1,5,5,3,5,3,2,2,1,4,1,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1,1,1,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,18
+9/3/2015 10:14,9/3/2015 12:44,0,100,9009,1,9/3/2015 12:44,R_2v2PUWYfM7B3dPH,,,,,anonymous,EN,276,5,6,4,4,4,6,5,5,4,4,4,4,4,5,4,4,5,5,4,5,6,4,3,3,2,3,3,1,1,2,2,2,3,2,3,4,4,3,4,3,1,5,5,5,5,3,6,6,1,7,7,4,5,3,3,5,3,2,5,2,6,5,6,6,6,5,2,2,3,3,3,4,3,2,3,4,2,3,1,1,4,1,3,1,1,4,1,3,2,3,4,1,3,1,1,3,2,3,4,3,3,2,3,1,4,1,1,1,1,1,2,1,3,2,2,1,2,1,1,1,1,2,1,1,2,1,3,3,4,4,4,1,"3,5",1,5,5,3,5,3,5,,5,5,,2,5,5,5,1,1,1,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,2,19
+9/3/2015 12:29,9/3/2015 12:45,0,100,933,1,9/3/2015 12:45,R_3Oi9maUlDvc1sd4,,,,,anonymous,EN,279,6,6,4,5,1,6,6,6,6,6,5,5,4,4,5,6,3,1,5,6,6,5,3,2,3,5,3,2,4,4,4,5,5,2,5,1,5,2,1,5,2,7,7,7,7,1,7,5,2,7,4,3,6,2,4,2,5,4,6,4,5,5,4,6,4,2,1,1,1,1,1,1,1,1,1,1,4,4,1,1,3,3,4,1,2,4,1,1,3,3,4,1,3,1,4,4,2,1,4,4,4,3,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,4,3,1,2,4,2,3,1,5,5,"1,2",2,5,5,5,5,5,5,5,5,5,,1,1,2,1,1,1,1,1,1,1,1,3,1,1,3,1,4,1,1,1,1,18
+9/3/2015 12:28,9/3/2015 12:45,0,100,1017,1,9/3/2015 12:45,R_3fIwhYJrt5fRECQ,,,,,anonymous,EN,278,4,4,6,6,1,2,5,2,3,4,5,5,5,6,5,6,6,1,4,1,3,5,2,4,1,2,2,2,1,3,3,2,2,1,4,3,4,4,2,5,1,2,2,2,3,4,6,5,5,3,6,4,5,6,2,3,4,6,5,4,5,3,5,6,6,5,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,3,1,1,1,1,2,1,3,2,1,2,2,1,1,1,1,1,4,3,1,1,1,2,1,2,1,1,1,1,1,1,1,1,2,1,2,2,2,1,2,1,2,2,4,3,2,3,3,3,"2,3",3,3,"2,3","1,3","1,2,3",3,3,"1,3",3,"1,3",3,3,3,3,,,2,2,1,1,1,2,1,2,3,4,3,3,2,1,2,1,3,2,1,2,2,18
+9/3/2015 12:38,9/3/2015 12:56,0,100,1071,1,9/3/2015 12:56,R_oYoFVlE3st4q081,,,,,anonymous,EN,281,5,3,3,4,4,5,4,5,2,3,4,3,2,3,5,4,4,3,3,5,4,4,5,3,5,3,2,3,1,2,2,3,2,2,2,4,3,4,2,2,3,4,4,5,3,4,7,5,2,7,7,6,2,4,5,5,4,6,5,4,4,1,1,2,1,3,1,1,3,3,2,1,2,1,1,1,4,3,1,1,3,2,3,1,3,2,1,3,4,3,2,2,3,1,4,3,2,2,2,3,3,4,1,1,2,4,4,3,3,3,4,3,1,2,3,3,4,4,4,2,4,3,4,2,3,3,3,2,3,3,3,5,"1,2","1,2,3",1,5,3,5,3,"1,2,5",5,5,3,5,5,5,5,2,1,1,1,3,2,4,2,2,5,3,2,5,4,5,2,3,2,1,3,2,2,20
+9/3/2015 12:43,9/3/2015 13:03,0,100,1209,1,9/3/2015 13:03,R_338DvQFyvlUYcDv,,,,,anonymous,EN,282,6,6,5,6,4,5,5,5,4,4,6,6,6,5,6,5,6,4,5,6,6,3,2,3,2,3,1,3,1,4,3,2,5,1,4,1,4,4,5,4,2,5,6,7,7,1,6,5,1,7,7,7,5,1,2,5,1,2,5,1,6,3,4,6,3,1,2,1,4,1,3,2,1,5,1,1,2,4,1,3,3,1,4,1,2,1,1,3,3,3,3,1,4,2,4,3,1,1,4,3,4,3,4,2,4,1,3,1,1,1,2,1,1,2,2,4,1,1,1,1,1,2,1,4,3,3,3,4,4,4,4,1,3,2,1,3,3,3,3,3,3,3,1,"1,2",3,3,3,2,4,5,4,4,5,5,5,1,1,3,4,3,2,1,1,2,4,5,3,5,2,18
+9/3/2015 12:46,9/3/2015 13:06,0,100,1197,1,9/3/2015 13:06,R_3QM1vG0G03KTrkG,,,,,anonymous,EN,283,6,3,1,5,2,3,1,3,6,4,4,4,1,3,6,6,6,3,2,2,4,2,1,3,5,3,1,2,1,3,3,4,3,1,1,5,3,3,3,3,4,1,2,5,1,7,7,7,1,5,7,3,3,5,6,6,5,6,6,3,6,1,1,1,5,1,5,2,2,2,5,5,4,5,5,5,4,4,2,4,4,3,4,1,3,2,4,2,4,4,4,1,4,1,4,4,4,3,2,4,4,1,2,1,2,1,1,4,4,2,2,1,3,3,4,3,2,2,4,1,1,3,1,3,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,1,3,5,"1,2",5,3,5,5,1,1,2,1,,1,2,1,1,3,3,1,1,3,2,2,1,1,1,3,4,1,24
+9/3/2015 12:56,9/3/2015 13:28,0,100,1917,1,9/3/2015 13:28,R_2ccrRmh3VbjZRho,,,,,anonymous,EN,284,6,6,6,6,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,2,5,2,5,1,2,1,5,5,2,2,1,5,5,5,5,5,5,2,7,7,7,7,1,7,7,1,7,7,1,6,4,4,6,1,1,6,2,4,7,7,7,7,7,5,5,5,5,5,5,5,5,5,1,1,4,3,1,4,1,4,1,1,1,2,4,1,4,4,1,4,3,1,2,3,4,4,4,4,2,4,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,4,4,4,4,4,2,1,1,1,"3,5","3,5","3,5","3,5",3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,18
+9/3/2015 13:21,9/3/2015 13:42,0,100,1281,1,9/3/2015 13:42,R_1IlO2yl4269gyoL,,,,,anonymous,EN,285,5,3,6,4,1,3,5,2,2,4,3,5,5,2,4,6,4,1,5,4,4,3,3,3,3,4,2,1,1,3,4,3,3,4,3,4,5,2,3,5,1,4,4,4,3,3,6,6,2,4,5,6,3,5,4,3,5,5,5,5,3,2,4,3,3,2,1,1,1,1,1,1,1,1,2,1,4,3,1,2,1,2,2,1,1,2,2,3,3,3,1,2,2,3,4,3,2,1,1,3,3,3,1,3,2,3,1,4,2,2,2,3,3,1,2,1,3,3,3,3,3,3,1,1,1,2,2,2,2,4,2,"2,3",3,1,1,5,"2,3",3,"1,3",3,5,5,1,1,5,5,5,1,3,4,2,5,4,4,4,1,5,5,4,2,3,4,4,3,2,1,1,1,1,18
+9/3/2015 12:46,9/3/2015 13:51,0,100,3949,1,9/3/2015 13:51,R_D8dCPHjXfpuT0Fb,,,,,anonymous,EN,286,6,6,4,6,2,6,3,4,4,6,6,4,5,4,5,5,3,2,5,5,3,4,3,4,1,4,2,2,2,4,4,1,3,2,3,2,5,4,1,5,2,7,7,7,6,1,7,7,1,7,7,1,4,5,5,5,2,6,5,5,4,4,6,6,7,3,1,2,2,2,2,1,1,2,2,1,2,2,2,1,2,1,2,2,1,1,1,3,2,2,2,1,3,2,1,2,1,2,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,3,2,3,2,2,3,3,,,3,3,3,3,,,3,,5,3,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,18
+9/3/2015 13:33,9/3/2015 14:06,0,100,2003,1,9/3/2015 14:06,R_1OAYQv9pJ7XsUHY,,,,,anonymous,EN,287,5,5,2,5,3,5,1,6,5,2,3,5,5,1,6,5,3,6,5,5,1,4,3,4,3,3,1,2,3,4,4,1,5,2,4,2,4,4,1,4,1,5,5,5,6,1,7,7,1,4,7,3,2,4,2,5,2,4,5,2,6,6,6,6,7,6,1,2,2,5,5,5,5,3,5,2,2,3,1,2,3,1,3,1,3,2,2,2,4,3,3,1,3,4,1,3,2,3,2,3,3,4,3,3,2,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,2,3,2,2,2,2,3,3,5,1,5,5,"2,3",3,"1,3",5,5,5,3,5,3,5,5,1,2,1,1,2,1,2,2,1,2,1,2,1,2,1,1,1,2,1,1,1,2,19
+9/3/2015 13:43,9/3/2015 14:11,0,100,1654,1,9/3/2015 14:11,R_2bZ5BcqlipFI9hT,,,,,anonymous,EN,288,5,6,4,6,3,5,3,5,5,6,4,4,5,6,5,3,,5,3,6,5,4,2,5,3,3,1,2,1,5,5,2,3,1,3,4,4,4,1,5,2,7,7,7,6,1,7,7,1,6,5,1,5,1,1,6,1,1,5,1,6,7,7,7,6,7,2,3,3,3,3,2,2,3,1,3,1,2,1,1,1,1,2,1,2,2,1,2,1,2,2,1,3,3,1,4,3,1,2,4,2,1,2,4,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,2,3,3,4,4,5,5,5,5,5,"1,3",5,5,5,5,5,5,3,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18
+9/3/2015 13:22,9/3/2015 14:29,0,100,4020,1,9/3/2015 14:29,R_3D5fohY1j5uHFQk,,,,,anonymous,EN,290,5,5,6,5,2,1,6,5,3,5,3,3,4,4,1,4,1,4,4,4,4,4,3,4,2,2,1,5,3,4,5,3,3,1,4,4,4,4,1,3,1,5,6,5,5,1,7,7,1,6,6,5,6,2,2,5,2,2,4,4,4,6,5,6,7,6,2,1,4,5,5,4,4,5,4,3,2,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,2,2,1,2,1,2,1,2,1,1,2,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,4,1,1,3,2,3,,1,2,,1,,,,,,,,2,2,,,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,1,2,1,2,18
+9/3/2015 13:52,9/3/2015 14:31,0,100,2309,1,9/3/2015 14:31,R_DoQ1bZAo0IFiyhr,,,,,anonymous,EN,289,4,6,6,4,6,1,3,1,5,3,3,2,2,4,3,6,5,3,2,2,2,4,3,3,3,3,1,4,3,4,2,1,3,5,3,5,4,3,3,4,5,3,2,2,1,4,7,7,1,4,7,2,3,2,5,6,2,3,5,1,6,3,6,6,3,1,1,1,3,1,2,1,3,1,1,1,3,1,1,1,1,3,1,1,4,2,1,3,4,1,1,3,1,4,1,3,2,1,1,4,2,4,1,4,3,3,2,4,3,1,3,4,3,4,2,3,3,3,3,2,4,1,4,1,4,1,4,1,1,3,1,5,2,1,5,1,"1,2","1,2",5,5,"1,2",2,2,2,3,3,5,1,3,2,4,5,5,5,5,1,2,1,5,1,1,1,2,1,4,5,1,1,2,19
+9/3/2015 14:07,9/3/2015 14:46,0,100,2371,1,9/3/2015 14:46,R_1JIKJ9KQMdPNjfn,,,,,anonymous,EN,291,4,5,5,4,5,4,5,5,3,5,6,5,5,5,6,5,6,3,4,6,5,4,4,5,3,4,4,5,2,5,5,3,3,4,4,5,5,4,2,5,4,6,6,7,5,3,7,6,2,7,7,5,6,5,3,4,1,1,5,2,6,4,5,6,3,2,1,2,1,1,1,1,1,1,1,1,3,3,2,4,2,2,3,2,3,3,3,4,4,3,3,2,3,3,2,4,1,2,1,3,3,4,2,4,3,1,1,2,4,3,3,2,1,1,2,2,3,1,4,2,1,1,3,2,2,2,3,3,2,3,4,3,3,1,5,5,2,5,5,1,5,5,5,5,1,5,5,,3,3,2,4,2,3,1,3,2,2,2,5,2,1,2,1,1,1,3,2,1,21
+9/3/2015 14:47,9/4/2015 10:26,0,100,70735,1,9/4/2015 10:26,R_2rMDQUjjvmxL4gl,,,,,anonymous,EN,292,5,5,4,5,6,6,5,5,5,6,5,5,6,5,6,6,5,6,5,6,4,4,4,4,3,3,3,4,1,4,4,1,4,2,4,4,4,4,2,5,2,7,7,7,7,1,7,7,2,7,6,3,6,2,5,6,2,5,6,2,6,6,6,7,6,6,3,4,5,5,5,5,4,5,5,4,3,4,1,1,4,1,4,1,2,4,1,2,3,3,4,1,3,4,3,1,3,4,4,3,3,1,4,3,2,2,2,2,3,1,4,1,2,3,3,2,2,1,2,1,1,1,1,2,2,4,4,4,4,4,4,1,5,1,2,5,5,5,3,3,3,5,3,5,5,5,5,5,1,1,1,2,1,3,2,1,1,1,2,1,1,2,1,1,2,1,1,1,1,19
+9/3/2015 14:12,9/4/2015 10:33,0,100,73294,1,9/4/2015 10:33,R_2AG6Um5bRHWKKkT,,,,,anonymous,EN,293,5,6,5,6,6,2,5,3,3,6,5,5,6,4,6,5,5,6,6,6,5,4,4,5,3,4,2,4,1,4,2,3,4,3,4,5,5,4,3,3,3,5,5,6,6,2,7,7,1,5,7,1,5,2,3,5,5,5,4,3,5,4,4,5,4,3,2,5,4,5,5,1,4,4,2,1,3,3,1,1,2,1,3,1,2,1,1,4,3,3,2,1,4,4,3,4,2,3,1,4,2,3,4,3,2,1,3,4,3,1,4,3,1,1,4,1,1,3,1,3,1,2,1,3,2,3,3,3,3,4,4,1,2,2,1,5,1,3,1,1,3,5,3,3,5,5,3,,3,2,2,3,1,3,2,3,4,4,3,1,1,1,1,1,3,2,4,5,2,18
+9/4/2015 10:50,9/4/2015 11:11,0,100,1255,1,9/4/2015 11:11,R_1LpWr8Rnbpq6Xjw,,,,,anonymous,EN,294,5,5,5,5,6,4,2,6,3,4,5,5,4,6,4,6,6,6,4,5,4,5,4,5,2,4,2,1,1,5,3,2,4,2,3,4,5,4,3,5,2,7,7,7,7,1,7,7,1,7,7,1,5,2,1,6,1,2,4,1,6,5,7,7,4,2,5,5,5,5,5,5,5,5,5,5,4,2,1,1,3,1,3,1,2,2,1,4,2,2,2,1,4,1,4,2,2,4,2,3,2,1,4,1,1,1,1,1,2,1,1,1,3,1,2,1,1,1,1,1,1,1,1,1,1,3,4,2,3,3,3,3,3,3,3,3,3,3,3,1,3,3,3,5,5,3,3,"1,5",4,3,2,4,3,4,4,3,4,1,3,3,2,4,4,1,2,2,3,1,2,20
+9/4/2015 10:55,9/4/2015 11:19,0,100,1430,1,9/4/2015 11:19,R_1GywY4W2WEhgvlF,,,,,anonymous,EN,295,5,5,4,3,1,4,2,4,3,4,4,4,5,3,4,4,5,1,4,4,4,4,2,3,2,3,2,2,2,3,3,2,3,1,3,3,4,3,2,4,2,5,5,5,5,2,5,5,2,5,4,4,5,2,2,4,1,4,4,2,4,5,5,5,4,5,1,1,1,1,1,1,1,1,1,1,2,2,1,1,2,1,2,1,1,2,1,1,1,2,2,1,1,1,1,2,1,1,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,3,3,3,"1,2,3",3,5,"1,2,3",5,5,5,5,5,4,5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,25
+9/4/2015 11:12,9/4/2015 12:23,0,100,4280,1,9/4/2015 12:23,R_cBHu0zY6hxVgMOR,,,,,anonymous,EN,296,6,6,6,5,4,3,4,5,5,5,6,6,6,6,6,6,6,4,6,6,6,2,2,5,2,5,1,2,1,5,5,2,5,1,5,3,5,5,1,5,1,7,7,7,7,1,5,3,1,6,6,1,6,2,2,6,2,5,6,4,6,7,7,5,5,5,3,2,5,2,2,3,1,2,2,1,3,3,1,1,3,1,3,1,1,3,1,3,2,3,3,1,3,2,2,3,3,3,3,3,3,1,2,1,4,1,1,1,1,1,1,1,1,1,1,3,1,1,2,1,1,3,2,2,1,4,4,4,4,4,4,"2,3","1,2,3,5","1,2,3","1,2,3",3,"1,3",3,3,"1,3",3,3,3,3,3,"2,3",,,2,1,1,1,1,1,1,1,3,1,1,1,1,1,2,1,1,1,1,3,1,19
+9/4/2015 11:20,9/4/2015 12:39,0,100,4760,1,9/4/2015 12:39,R_22X1pgtjUpGli9K,,,,,anonymous,EN,297,6,6,4,6,6,4,5,6,5,5,6,5,6,5,6,6,6,5,6,6,4,2,1,4,4,4,1,1,2,4,3,1,4,1,3,1,4,4,,1,1,6,6,7,6,1,7,7,1,6,7,1,6,5,1,4,1,1,6,1,5,6,7,7,7,6,2,1,3,4,4,5,4,2,4,1,1,3,1,1,2,1,3,1,3,3,1,3,3,3,3,1,3,1,1,4,3,3,3,3,4,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,2,3,4,3,2,"2,3",,3,3,3,1,,3,,2,3,,,,,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,19
+9/4/2015 12:40,9/8/2015 11:07,0,100,340023,1,9/8/2015 11:07,R_ZxdXrA3RpwQtZKh,,,,,anonymous,EN,299,5,3,2,3,3,3,2,3,3,3,3,3,2,2,4,4,3,3,4,3,3,2,4,3,4,3,3,4,2,2,2,3,4,3,2,4,3,4,3,2,4,4,4,4,4,5,6,6,2,5,3,4,5,2,5,5,2,5,5,5,5,5,5,4,3,2,3,4,4,4,4,2,4,4,1,1,3,3,2,1,2,2,3,2,2,2,1,2,1,3,2,2,3,1,3,3,2,2,2,3,3,1,3,1,2,3,3,2,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,2,5,5,"1,2,3",3,5,3,5,5,5,3,3,"2,3",3,5,3,5,5,2,1,1,3,2,3,3,1,4,4,4,1,2,3,1,1,2,2,3,1,2,20
+9/3/2015 14:32,9/8/2015 11:19,0,100,420428,1,9/8/2015 11:19,R_3GCWYa4XTRSV2y5,,,,,anonymous,EN,298,6,6,4,4,1,6,4,6,6,5,6,5,6,6,6,6,5,1,6,6,6,5,2,5,3,5,2,2,2,4,4,3,4,1,4,2,5,4,2,3,2,5,5,7,6,1,7,7,1,7,7,1,5,4,4,6,2,5,4,3,4,5,5,5,6,5,1,1,1,1,1,1,1,1,1,1,2,3,1,1,4,1,4,1,2,3,1,3,2,2,4,1,3,3,2,3,2,1,3,3,2,1,1,3,1,1,2,2,2,1,1,1,2,1,2,2,2,1,1,3,1,2,2,1,1,3,3,3,3,4,4,2,2,1,3,3,2,3,3,3,3,3,1,3,3,3,5,1,3,2,1,2,1,3,2,2,2,2,1,2,3,2,2,1,1,1,2,1,2,18
+9/4/2015 12:40,9/8/2015 11:32,0,100,341548,1,9/8/2015 11:32,R_wMIOLp0WAUbkMLf,,,,,anonymous,EN,300,5,6,4,4,4,5,5,5,5,4,5,4,6,4,4,6,5,4,5,5,5,4,3,3,1,3,1,2,3,3,5,1,2,1,5,4,4,4,1,3,1,7,7,7,7,1,7,7,7,7,7,3,5,2,2,5,2,4,4,5,5,4,4,6,7,7,2,2,1,5,4,3,4,1,2,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,2,2,2,2,2,1,2,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,3,2,1,"2,3",3,3,"2,3",3,3,5,3,3,3,"2,3",5,5,5,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,3,1,1,1,2,18
+9/8/2015 11:25,9/8/2015 11:40,0,100,861,1,9/8/2015 11:40,R_1jGOKMJ24NUkLQG,,,,,anonymous,EN,301,5,5,4,5,4,5,3,5,4,4,4,3,5,4,5,5,5,5,5,5,4,4,3,4,3,4,4,4,3,3,4,4,5,2,3,4,5,4,4,5,4,5,6,6,6,1,7,7,3,7,7,3,5,6,4,5,2,4,5,4,6,3,3,6,3,5,3,1,4,4,3,4,3,,5,2,3,3,3,1,4,2,4,1,3,4,1,3,3,3,3,1,3,1,3,2,3,4,3,3,3,2,4,1,2,1,2,2,3,1,3,1,3,3,3,3,2,3,2,1,1,4,2,4,3,3,2,3,1,4,4,3,5,3,5,5,"1,3","1,3","1,3",5,3,5,3,5,3,5,5,5,4,3,4,4,4,5,4,5,4,4,4,4,5,3,5,3,5,5,4,5,2,19
+9/8/2015 11:24,9/8/2015 11:42,0,100,1072,1,9/8/2015 11:42,R_3fBPAlnHlYWmmRH,,,,,anonymous,EN,302,4,4,4,3,2,4,4,3,2,3,4,4,4,4,4,4,3,2,3,4,4,4,3,4,3,3,3,3,4,4,3,5,3,3,4,4,4,3,3,2,3,5,5,5,5,3,5,5,3,4,5,3,4,5,5,3,4,5,4,4,4,5,4,5,5,5,1,1,1,1,1,1,1,1,1,1,4,2,1,1,4,4,2,1,2,4,1,2,3,2,4,2,2,1,2,2,4,1,3,3,2,4,1,1,2,4,3,4,4,4,4,3,2,2,2,4,4,4,2,2,3,4,4,3,4,2,3,2,3,3,2,3,3,"1,2",2,5,5,5,"1,2","1,2",5,5,3,3,5,3,5,5,5,5,3,5,5,5,5,2,5,5,5,5,5,5,5,5,5,5,5,5,2,22
+9/8/2015 11:34,9/8/2015 11:51,0,100,1008,1,9/8/2015 11:51,R_BrANb8TGKYHtLbj,,,,,anonymous,EN,304,5,6,4,5,4,5,5,6,4,5,6,5,4,6,6,6,4,3,4,5,4,3,4,4,1,3,1,2,1,4,4,2,2,2,2,3,3,2,4,3,2,4,4,5,3,2,7,7,2,7,7,2,4,2,3,6,2,6,5,2,6,6,6,7,7,6,1,1,2,1,1,1,1,1,1,1,2,3,1,1,4,1,3,1,1,3,1,3,2,3,4,1,4,3,3,3,2,1,2,2,2,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,2,1,3,4,3,3,4,4,5,5,1,1,5,3,2,3,5,5,5,5,5,5,2,5,1,4,2,1,2,1,2,1,5,2,3,2,1,3,1,2,1,4,1,1,1,2,18
+9/3/2015 13:05,9/8/2015 11:56,0,100,427884,1,9/8/2015 11:56,R_1FPxnI6GqlRmYHH,,,,,anonymous,EN,303,5,4,5,3,3,5,4,3,5,4,4,6,3,2,6,5,4,2,5,5,2,3,2,3,1,3,1,1,1,4,2,2,3,4,1,4,3,3,1,3,1,4,4,4,4,5,5,3,3,5,6,5,5,4,5,5,6,4,5,3,3,2,2,3,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,3,3,1,1,3,3,2,2,1,1,1,1,2,1,1,3,3,1,1,1,4,3,3,2,2,1,3,2,3,1,1,1,1,3,4,1,3,2,4,3,4,3,2,1,2,1,2,3,2,2,2,3,5,5,2,3,2,3,5,1,2,1,1,1,3,1,1,1,1,1,2,1,1,1,2,3,3,2,1,3,1,21
+9/8/2015 11:51,9/8/2015 12:15,0,100,1403,1,9/8/2015 12:15,R_a3slF41vGEcTowp,,,,,anonymous,EN,11070816,6,5,5,4,4,5,4,4,2,4,5,4,4,5,4,4,4,4,4,4,4,3,4,3,3,3,2,4,2,3,3,4,2,3,1,5,4,3,4,1,4,2,2,5,2,6,7,6,2,5,7,6,2,4,5,4,4,6,4,2,5,5,6,5,6,2,2,1,4,3,3,4,3,2,4,2,2,3,2,1,2,1,3,1,3,2,1,3,4,3,3,1,3,3,3,2,1,3,1,2,2,3,2,3,4,2,1,4,4,1,2,2,3,4,4,1,3,2,1,3,1,3,2,3,2,3,2,3,3,3,3,5,5,1,5,5,2,5,5,1,5,5,5,2,5,2,5,1,1,2,4,2,1,3,2,1,1,3,2,1,3,3,1,1,2,3,2,2,2,18
+9/8/2015 11:44,9/8/2015 12:15,0,100,1827,1,9/8/2015 12:15,R_2YukGM8GWaDTY3V,,,,,anonymous,EN,305,6,4,5,6,1,5,6,4,6,4,3,6,5,4,3,5,5,1,5,5,2,4,2,5,1,3,2,4,1,4,3,2,4,1,5,2,4,5,1,3,3,5,3,4,4,5,6,5,2,6,7,1,6,4,6,3,5,6,5,5,5,2,4,5,1,3,1,1,1,1,1,1,1,1,1,1,2,4,1,2,1,2,4,1,2,1,2,1,3,4,1,1,2,1,2,3,2,1,2,4,4,3,1,1,1,2,1,2,4,3,2,1,1,2,4,1,1,2,1,1,1,2,3,2,3,3,2,2,3,4,3,1,3,1,5,"3,5",1,3,3,5,3,5,"2,3",3,5,3,5,5,2,1,1,3,1,3,1,4,1,1,1,3,5,3,1,1,2,1,4,3,2,22
+9/8/2015 12:00,9/8/2015 12:20,0,100,1243,1,9/8/2015 12:20,R_1NypzMFyc48xfuh,,,,,anonymous,EN,307,5,6,5,5,4,6,4,5,5,6,6,6,6,5,6,5,3,2,5,5,5,4,3,4,1,3,1,1,1,4,5,2,2,1,4,3,5,5,1,5,1,5,6,6,5,1,7,7,3,6,7,4,5,2,1,5,2,3,5,1,6,5,6,6,6,6,1,1,1,1,2,1,1,1,1,1,1,2,1,1,2,1,3,1,1,2,1,4,1,3,2,1,4,2,1,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,4,2,4,3,3,3,2,"3,4",5,5,5,3,5,5,5,5,3,5,5,5,,1,2,1,3,1,1,1,2,1,1,1,1,1,1,1,1,3,1,1,1,1,20
+9/9/2015 10:49,9/9/2015 12:05,0,100,4579,1,9/9/2015 12:05,R_3ncuSQ3i1CbvYly,,,,,anonymous,EN,308,5,6,5,4,3,6,3,5,4,4,5,4,4,4,3,6,5,1,4,3,5,4,3,4,2,3,1,2,2,4,3,3,2,2,4,5,4,4,3,5,2,6,5,6,7,2,6,6,2,5,6,2,4,2,2,5,1,1,5,1,6,5,6,6,5,3,1,1,1,1,1,1,2,1,1,1,3,3,1,4,4,1,2,1,2,4,4,2,3,2,3,1,2,4,2,3,3,1,3,2,2,4,1,3,1,2,2,3,2,1,2,1,3,1,2,2,2,1,1,1,1,2,1,1,2,2,4,3,2,3,3,3,,"2,3",,,"2,3",,3,3,3,,,,,,,,3,1,2,4,4,4,3,3,2,4,2,1,3,3,2,3,3,2,3,3,1,23
+9/9/2015 10:56,9/9/2015 12:24,0,100,5289,1,9/9/2015 12:24,R_3lJr5Z0HSvCTQnB,,,,,anonymous,EN,309,5,5,6,6,4,3,6,2,3,5,6,5,6,6,5,2,4,6,4,4,5,4,4,4,3,3,4,5,1,4,4,2,3,5,3,5,4,4,3,4,5,5,5,5,3,2,7,7,1,6,6,1,5,3,3,5,2,5,4,2,4,5,6,5,6,3,4,4,3,5,5,4,4,4,3,2,2,3,1,1,3,1,4,1,1,4,1,3,3,4,3,1,3,3,2,4,2,4,4,4,4,3,4,2,2,1,2,3,1,1,3,1,1,2,1,1,1,3,1,1,1,2,2,2,2,3,4,2,2,4,4,1,"3,5",1,2,5,2,3,3,5,3,5,2,5,5,3,5,5,2,1,1,1,1,4,4,4,1,1,2,1,1,1,1,1,4,4,1,1,2,18
+9/9/2015 12:06,9/9/2015 13:19,0,100,4434,1,9/9/2015 13:19,R_2S0TeE0ofruSntz,,,,,anonymous,EN,310,6,3,5,6,4,3,5,4,4,6,6,5,6,4,6,6,6,5,4,3,4,5,4,3,4,3,2,1,4,3,3,5,3,1,3,5,3,3,4,5,2,5,6,4,4,4,6,4,7,5,6,5,5,3,6,4,2,1,4,5,3,5,4,3,2,2,3,2,2,3,3,2,2,3,3,2,4,3,1,1,2,4,3,1,3,2,1,4,3,4,2,4,3,4,4,3,2,2,2,4,3,2,3,4,3,3,3,4,4,4,4,3,2,1,4,1,4,3,4,3,3,4,3,1,3,3,2,3,4,4,3,"1,2,3","3,5","2,3",3,5,3,3,3,3,3,5,"1,2,3",3,3,5,5,5,2,1,1,1,1,1,1,3,4,1,2,2,1,3,3,2,2,2,1,1,1,19
+9/9/2015 14:02,9/9/2015 14:34,0,100,1920,1,9/9/2015 14:34,R_2rM9440IkLAHsIe,,,,,anonymous,EN,312,6,6,5,6,4,5,6,5,5,5,6,4,5,6,6,6,6,5,6,6,6,4,4,4,4,2,1,1,1,5,1,5,4,1,5,3,4,4,4,4,1,5,6,7,6,1,7,7,1,7,7,2,5,2,2,6,2,5,5,1,6,6,5,2,2,6,2,1,2,4,4,5,3,2,2,1,3,4,1,1,4,2,3,1,2,4,1,4,4,3,4,1,4,4,3,3,3,4,4,4,4,2,4,3,3,1,2,3,3,2,2,2,1,1,1,1,2,2,1,2,1,3,1,1,2,4,4,3,3,4,4,1,5,3,5,5,1,1,3,3,5,5,3,1,3,3,3,1,4,4,4,2,2,4,4,1,3,3,2,1,2,1,3,3,3,2,2,1,2,18
+9/9/2015 14:00,9/9/2015 14:40,0,100,2377,1,9/9/2015 14:40,R_323WXHxIMbTBX7Z,,,,,anonymous,EN,311,3,4,4,4,3,6,1,3,4,4,3,3,4,2,5,3,,3,4,5,5,3,4,4,3,4,4,3,1,4,3,3,2,2,3,3,2,3,1,4,3,4,4,6,5,1,7,5,1,6,7,2,6,3,2,2,1,1,6,1,5,2,2,5,3,2,3,3,4,4,5,3,3,5,3,1,2,4,1,1,3,2,3,1,2,4,1,4,3,3,4,2,4,3,3,4,3,2,3,4,4,3,2,2,3,2,2,3,3,2,4,1,3,2,4,4,3,1,1,1,2,3,1,2,4,2,3,2,3,3,3,5,5,"1,3",3,5,3,3,3,3,3,5,"2,3",2,3,3,5,1,5,1,2,5,3,3,4,2,1,4,4,4,3,3,2,3,3,3,4,4,2,23
+9/9/2015 10:55,9/9/2015 15:00,0,100,14679,1,9/9/2015 15:00,R_27pMCfmd9SXtqR7,,,,,anonymous,EN,313,4,6,5,5,5,5,6,5,6,5,5,5,4,5,6,6,5,5,5,5,5,4,3,5,3,3,3,2,4,4,5,3,4,1,3,3,4,3,5,4,1,5,5,5,4,2,7,6,1,5,6,3,4,6,3,4,2,5,4,4,3,5,6,6,6,6,2,2,2,3,2,4,2,4,4,1,2,3,1,1,3,1,3,1,1,2,1,2,1,2,3,1,2,3,2,4,3,3,3,3,3,1,1,2,1,2,2,3,3,1,2,1,3,2,2,2,2,2,1,2,1,2,3,2,1,3,3,1,2,3,4,"1,2",3,"1,3","1,2,3",3,"2,3",3,3,3,3,3,"2,3",3,3,"2,3",,5,3,1,2,3,2,1,1,4,1,2,2,1,1,2,1,1,3,1,1,1,2,18
+9/9/2015 14:59,9/9/2015 15:16,0,100,1039,1,9/9/2015 15:17,R_1HNvlqnQwuPe3Op,,,,,anonymous,EN,315,6,3,2,6,1,5,6,4,3,4,4,6,4,4,6,6,6,1,5,5,2,5,4,3,4,4,3,3,2,4,2,4,2,2,1,3,4,3,2,3,3,3,5,4,5,4,5,4,2,5,6,5,5,6,6,4,6,6,6,5,3,3,3,4,5,3,1,1,1,1,1,1,1,1,1,1,4,3,2,1,2,1,3,1,2,2,1,3,2,3,3,1,3,3,2,4,2,1,2,3,3,2,1,3,2,3,1,1,3,1,1,1,4,1,1,1,2,1,3,3,1,3,1,2,3,3,2,2,3,3,3,"2,3",1,1,5,5,"2,3",2,"1,2,3","1,3",5,5,2,5,3,3,5,5,3,2,2,3,1,4,2,2,3,3,4,3,3,3,4,1,2,2,2,3,2,19
+9/9/2015 14:58,9/9/2015 15:23,0,100,1499,1,9/9/2015 15:23,R_1hNkkVqGQYZJRQZ,,,,,anonymous,EN,11046600,4,5,4,3,4,6,4,5,4,4,6,6,6,5,5,6,5,5,6,5,5,3,3,3,1,4,1,1,1,4,5,2,4,1,4,3,5,3,2,4,1,5,6,6,6,1,7,7,1,6,7,4,5,4,4,6,2,5,6,4,6,5,6,7,7,7,1,2,3,4,4,4,4,3,4,5,3,3,1,1,2,1,2,1,2,2,1,3,1,2,2,1,4,1,3,3,1,2,1,1,2,1,2,1,2,1,2,1,3,1,2,1,1,1,1,1,1,1,1,1,1,2,1,2,1,3,4,4,3,4,4,2,5,5,1,5,5,5,5,5,5,5,"1,2",5,3,5,5,5,2,2,2,3,1,2,1,1,1,2,1,1,1,1,1,1,3,1,1,2,2,18
+9/10/2015 10:18,9/10/2015 11:02,0,100,2645,1,9/10/2015 11:02,R_26mYvz2QBaMPaKn,,,,,anonymous,EN,316,6,4,5,3,1,5,5,4,3,4,3,3,3,4,1,5,6,1,5,3,3,4,5,5,3,4,3,5,2,4,5,2,3,3,5,5,5,4,2,5,5,1,1,1,2,1,6,6,5,4,5,4,2,5,4,4,2,5,4,3,5,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,2,4,1,1,3,1,4,1,2,4,1,2,4,4,3,1,3,3,1,2,2,1,3,3,4,4,1,2,1,1,1,3,3,2,2,1,1,1,2,1,3,4,1,1,3,2,4,1,2,3,1,1,4,3,3,3,5,"1,2",5,5,"1,2,5",2,"1,2",1,5,5,1,5,5,1,5,5,5,3,1,4,2,5,5,1,5,5,5,5,5,3,3,5,5,1,1,4,1,22
+9/10/2015 11:04,9/10/2015 11:30,0,100,1572,1,9/10/2015 11:30,R_2sXWLznzUmTcIXX,,,,,anonymous,EN,317,5,2,4,4,1,4,1,1,2,4,2,5,5,5,6,5,6,1,4,3,6,4,3,2,2,2,1,4,1,1,1,2,3,1,3,4,4,2,2,3,3,4,1,4,1,6,7,7,2,6,7,1,5,2,6,6,6,6,5,2,5,4,6,2,2,1,1,1,1,1,1,1,2,1,1,1,3,2,1,1,1,3,2,1,1,1,1,1,4,4,2,2,1,1,4,4,1,1,1,4,4,2,1,2,2,2,2,1,3,2,2,3,1,1,1,1,2,3,3,4,3,2,4,1,4,3,3,2,1,3,4,5,5,5,5,5,5,5,5,5,"3,5",5,5,1,5,5,5,1,3,3,1,1,4,1,2,2,5,5,5,1,1,1,1,1,3,1,1,1,1,18
+9/10/2015 11:12,9/10/2015 11:39,0,100,1640,1,9/10/2015 11:39,R_1FtDqBY6ReOqTDg,,,,,anonymous,EN,318,5,5,5,4,4,5,3,3,4,5,3,4,6,5,6,6,4,6,4,5,5,4,2,4,1,3,1,2,2,3,3,1,5,2,3,3,4,4,2,3,2,3,5,7,6,2,6,7,5,7,7,3,5,4,1,6,4,4,5,1,6,1,4,5,3,1,2,3,3,3,3,3,3,4,4,2,4,2,1,1,2,1,4,1,1,4,1,3,3,4,1,1,3,1,4,4,1,2,2,4,3,4,2,1,3,1,1,1,3,2,3,1,1,1,1,4,1,1,2,3,1,1,2,1,1,1,1,2,1,2,3,3,"2,3","2,3",,3,"1,2,3",3,3,3,,3,3,,3,,,,1,1,1,1,1,2,1,2,1,2,1,1,2,1,1,2,3,3,2,1,1,18
+9/10/2015 8:46,9/10/2015 11:48,0,100,10963,1,9/10/2015 11:48,R_5gA5CucvGIeAfQJ,,,,,anonymous,EN,319,6,5,4,4,4,5,5,6,4,5,4,4,4,5,5,5,4,2,4,6,6,4,3,4,2,3,1,3,2,4,4,4,3,3,2,3,5,4,3,3,3,5,5,6,5,3,6,5,2,6,7,4,3,3,2,5,1,3,5,6,5,6,5,5,5,4,1,1,3,2,4,1,2,3,1,1,4,3,1,1,3,1,3,1,2,3,1,2,3,3,3,1,2,2,3,1,2,1,3,3,3,2,1,2,1,1,1,2,3,1,3,1,2,1,3,1,1,1,1,1,1,2,3,1,1,3,4,2,2,3,3,,,1,,,,,,1,,,,,,,,,1,1,1,2,1,2,2,1,1,1,1,1,1,1,1,2,5,2,3,2,1,18
+9/10/2015 11:31,9/10/2015 11:58,0,100,1574,1,9/10/2015 11:58,R_ROa5SyxEHETXSJH,,,,,anonymous,EN,320,5,4,6,4,5,6,4,3,4,6,6,6,4,5,6,6,6,6,5,5,6,5,3,2,2,3,1,1,1,3,4,3,1,1,4,2,5,5,2,4,2,5,4,4,4,4,7,7,2,7,6,3,6,5,5,6,3,5,6,3,5,3,6,3,7,3,2,1,4,4,1,4,3,2,3,3,3,4,1,1,3,1,4,1,2,2,1,4,3,4,3,1,3,3,4,2,2,4,4,4,4,2,4,2,4,1,2,1,3,2,2,1,1,1,1,2,1,2,1,1,2,2,1,1,2,3,4,4,4,4,3,5,2,1,,5,"2,3",3,5,5,5,"3,5",3,5,5,5,5,5,1,2,2,3,4,2,1,2,3,1,2,1,2,2,1,1,1,1,2,2,2,19
+9/10/2015 12:01,9/10/2015 12:24,0,100,1392,1,9/10/2015 12:24,R_3nV2UZ3mqzIB5KB,,,,,anonymous,EN,321,6,6,6,6,6,6,6,5,5,6,6,6,6,6,6,4,6,1,6,6,3,3,1,2,1,3,1,1,1,4,5,1,1,1,2,2,4,4,3,3,1,5,4,4,4,5,7,6,1,4,6,6,5,4,5,5,2,6,4,5,5,6,5,6,6,6,1,1,1,1,1,1,1,1,1,1,2,3,1,1,1,1,2,1,1,1,1,3,3,3,2,1,3,3,3,3,3,1,1,4,4,2,1,2,1,1,1,1,1,1,2,2,1,1,2,2,2,1,2,1,1,2,1,1,2,3,3,3,4,4,3,1,2,2,2,5,5,5,5,5,5,5,3,3,2,2,5,,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,18
+9/10/2015 12:25,9/10/2015 13:07,0,100,2553,1,9/10/2015 13:07,R_1jjnP5w6MHtzvwe,,,,,anonymous,EN,322,6,5,1,5,1,6,5,4,1,3,2,5,1,1,3,3,1,1,4,3,1,2,4,1,3,2,2,4,1,2,1,5,2,1,1,4,3,1,5,3,4,1,3,4,1,4,4,6,4,7,4,6,3,4,1,6,3,6,3,4,5,1,2,1,4,1,1,1,1,1,1,1,1,1,1,1,4,2,1,1,2,1,3,1,1,3,1,1,1,3,2,1,1,4,1,3,2,1,2,1,3,1,1,4,1,3,1,3,4,2,1,1,3,1,4,1,2,1,3,3,4,4,1,1,2,1,3,2,3,4,3,1,"2,3","2,3",,4,,,,,,,,,,,,3,2,1,1,5,1,5,3,1,1,4,5,1,1,2,1,1,1,1,2,1,1,18
+9/10/2015 14:00,9/10/2015 14:19,0,100,1148,1,9/10/2015 14:19,R_2alPAlDbgwy1zrl,,,,,anonymous,EN,323,5,4,5,3,5,6,5,6,6,4,3,2,2,4,6,6,5,4,4,3,5,3,1,5,3,3,1,2,2,4,3,4,4,1,2,5,3,2,1,5,2,5,4,5,4,3,7,7,2,6,6,3,6,3,2,6,1,2,5,2,4,3,7,4,3,5,1,3,2,2,2,4,2,3,4,2,2,3,1,1,4,1,2,1,1,4,1,2,4,2,4,1,3,2,2,3,4,1,4,3,3,4,1,1,1,1,4,4,3,1,1,1,3,1,1,1,2,4,1,2,1,3,4,3,1,3,4,2,2,4,3,"1,2",5,2,5,"3,5",1,3,"1,3",5,3,5,2,5,5,5,5,1,1,1,1,1,2,2,1,3,5,1,1,1,1,1,1,1,1,1,1,1,2,19
+9/10/2015 14:19,9/11/2015 11:11,0,100,75096,1,9/11/2015 11:11,R_11asxWWDjFSD0Us,,,,,anonymous,EN,324,5,5,5,5,3,5,4,6,4,5,4,4,5,5,4,6,5,2,5,4,4,4,3,2,3,5,3,3,2,4,4,3,4,2,4,3,4,4,4,4,3,6,6,6,5,2,6,7,2,5,7,4,4,4,3,5,2,4,4,3,5,5,6,6,6,7,2,1,2,2,2,3,1,2,2,1,4,3,1,1,3,1,3,1,3,3,1,3,2,3,3,2,3,1,3,4,3,2,3,3,3,1,2,1,1,1,2,3,2,1,2,1,2,2,3,4,2,2,2,3,1,3,2,1,1,3,3,3,3,3,3,5,5,5,5,5,5,5,5,5,5,5,"1,2",5,5,5,5,5,3,1,4,3,4,3,4,2,1,1,3,3,2,2,3,1,4,4,3,2,1,19 years old
+9/10/2015 11:42,9/11/2015 11:13,0,100,84679,1,9/11/2015 11:13,R_21gjJYcH2o9lYHK,,,,,anonymous,EN,325,6,6,5,5,4,5,6,6,4,6,6,5,5,6,6,5,4,3,6,6,5,4,2,4,1,4,2,1,1,4,3,1,2,1,3,2,4,3,1,4,1,5,5,6,5,2,7,6,1,6,7,3,6,2,2,6,1,2,6,2,5,6,6,6,6,6,1,1,2,2,1,2,2,1,2,2,2,3,1,2,3,1,3,1,2,2,2,4,1,3,2,1,4,1,2,3,1,1,1,3,2,2,1,1,2,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,3,3,3,3,3,4,"2,3",5,3,"1,2",5,"1,2,3",1,1,5,5,5,5,5,5,1,5,5,2,1,1,2,1,2,1,2,1,2,2,1,1,1,1,2,2,1,1,1,2,19
+9/14/2015 9:36,9/14/2015 12:18,0,100,9768,1,9/14/2015 12:19,R_3fjy05xGcYeJrAP,,,,,anonymous,EN,326,4,3,4,4,4,4,6,3,2,5,4,4,4,4,4,5,4,2,5,3,3,4,1,3,1,4,1,1,2,3,3,3,3,2,3,1,4,3,1,4,1,6,6,6,6,1,6,6,2,6,6,2,3,2,5,5,3,5,4,2,5,6,6,6,7,6,1,1,1,1,1,1,1,1,1,1,2,3,1,2,3,1,3,1,1,2,2,3,3,3,2,1,3,2,2,3,1,1,,3,3,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,3,2,2,2,3,1,"1,2,4",3,"1,4","1,2,4","1,2","1,2,4",3,3,"1,2,3,4",3,"1,2,4","1,2,4","1,2,4","1,2,4","1,2,4",,2,1,1,2,1,1,1,1,1,1,1,1,1,1,3,1,2,1,1,1,1,22
+9/14/2015 12:19,9/14/2015 14:00,0,100,6018,1,9/14/2015 14:00,R_22Xt5fcwPthU9J7,,,,,anonymous,EN,327,4,4,5,5,2,4,5,3,4,3,2,2,3,4,6,5,5,1,3,6,5,3,4,3,3,2,5,5,3,3,3,4,5,4,2,5,3,4,5,3,5,4,4,3,2,5,5,5,3,6,6,2,5,4,4,6,2,5,4,2,5,1,2,2,2,4,1,1,1,2,2,1,2,1,2,1,4,3,3,1,4,2,3,2,4,4,1,4,4,4,4,2,4,4,4,3,4,1,4,3,3,4,1,4,3,3,4,3,4,3,4,3,3,4,4,4,4,4,2,3,3,3,4,4,3,3,3,3,3,3,3,"1,2",5,5,5,5,1,5,5,1,5,5,5,5,5,5,5,"1,2,3",4,4,4,5,5,5,4,3,4,4,5,4,4,3,3,4,5,5,5,5,2,20
+9/14/2015 9:36,9/14/2015 14:16,0,100,16806,1,9/14/2015 14:16,R_W9F7jT1UAakcP7z,,,,,anonymous,EN,328,5,5,4,5,3,5,5,5,5,5,4,3,3,4,4,4,5,3,5,5,5,3,2,3,4,3,3,2,2,3,3,3,4,2,4,2,4,4,3,3,2,3,3,6,3,1,6,5,2,6,6,4,3,4,4,4,3,4,4,2,5,2,5,5,5,4,1,2,2,1,1,1,1,1,1,1,2,2,1,1,2,3,2,2,2,2,1,,2,2,2,2,2,2,2,2,2,1,2,2,2,2,1,3,1,1,2,2,2,2,2,2,2,,2,2,3,2,2,2,1,2,1,1,2,3,3,3,3,3,3,3,3,2,3,5,3,5,5,3,5,5,2,2,3,3,3,5,3,3,3,3,3,4,4,3,2,3,3,3,3,2,1,2,2,1,3,2,2,18
+9/14/2015 14:01,9/14/2015 14:20,0,100,1118,1,9/14/2015 14:20,R_1C4m6AHTEChHYwD,,,,,anonymous,EN,329,3,5,4,3,4,2,5,2,1,6,6,5,5,4,3,5,3,5,5,4,1,2,1,4,1,3,1,1,1,5,4,2,4,1,3,2,4,4,2,3,1,3,3,6,6,5,7,7,1,6,6,3,5,2,2,5,1,2,6,3,6,6,6,7,6,3,2,2,4,4,3,5,3,3,4,4,3,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,2,2,1,2,1,2,1,2,3,1,1,1,1,1,3,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,3,1,3,2,3,3,5,5,3,3,5,5,3,5,3,3,5,3,5,5,2,3,1,1,1,1,1,2,1,1,1,1,1,1,1,1,3,1,2,2,1,19
+9/14/2015 15:27,9/14/2015 15:51,0,100,1446,1,9/14/2015 15:51,R_2CxMdy22hDemMtq,,,,,anonymous,EN,330,6,6,6,4,2,4,6,2,2,3,5,5,4,5,4,3,5,4,5,3,3,4,5,3,3,4,1,5,2,3,3,3,4,2,4,5,5,4,4,4,1,4,5,6,4,3,6,6,2,6,4,3,4,4,5,3,4,6,5,4,5,4,3,2,2,3,2,1,4,2,2,2,4,1,2,1,2,3,1,1,2,1,3,1,2,3,1,4,4,4,4,2,4,4,3,2,2,2,3,2,4,3,2,1,3,2,2,2,2,1,4,2,1,1,1,4,3,4,2,2,1,3,3,4,4,3,2,3,3,3,2,3,2,3,2,5,5,3,5,5,5,5,2,5,3,3,5,5,1,1,1,4,1,2,1,1,1,3,2,1,2,1,1,1,1,1,4,1,2,18
+9/14/2015 15:47,9/14/2015 16:05,0,100,1091,1,9/14/2015 16:05,R_eFgnpzkIkn6rOV3,,,,,anonymous,EN,331,5,5,4,4,3,4,4,4,3,2,3,3,2,5,5,4,3,4,2,5,6,3,4,4,3,3,1,4,1,4,3,3,3,1,3,5,4,3,5,3,4,6,5,5,5,1,6,6,2,4,5,3,5,2,4,6,2,2,5,2,4,4,4,3,3,1,2,1,2,2,2,1,1,1,1,1,1,2,2,1,3,2,3,2,3,2,1,3,2,2,2,1,3,4,4,2,2,1,2,2,2,2,1,4,1,2,2,2,3,1,4,1,2,4,3,4,1,4,1,1,1,1,3,4,4,1,3,1,1,3,3,5,3,5,5,5,5,3,5,5,5,5,5,5,5,3,5,,1,1,1,3,2,5,4,4,1,1,1,1,1,1,1,1,1,1,1,1,2,18
+9/15/2015 11:06,9/15/2015 12:23,0,100,4616,1,9/15/2015 12:23,R_ymYzoK0ePuPtJhD,,,,,anonymous,EN,332,5,5,5,4,3,5,5,5,5,5,5,5,5,5,5,5,4,5,5,,5,4,3,4,3,2,1,1,1,4,3,2,4,1,3,3,3,4,1,3,1,6,6,6,5,1,7,7,1,6,6,1,5,1,1,5,1,1,5,1,5,6,6,6,6,2,1,3,3,5,5,5,5,4,5,4,3,3,4,1,3,1,3,1,1,3,1,3,1,3,3,1,1,2,2,1,1,2,3,3,2,1,2,2,1,1,1,2,2,1,1,1,1,1,3,1,1,1,1,1,1,2,1,2,2,3,4,3,4,4,4,3,3,"1,2",1,2,2,3,3,3,3,3,2,3,3,2,5,,2,2,1,3,3,4,2,1,1,1,2,1,1,1,1,1,3,3,3,3,2,20
+9/16/2015 13:01,9/16/2015 13:23,0,100,1342,1,9/16/2015 13:23,R_2S0GiM0D61XYlwf,,,,,anonymous,EN,333,5,4,4,3,3,2,2,3,4,4,4,4,5,4,5,5,6,2,4,4,3,3,4,3,3,4,1,3,1,4,3,2,4,1,4,3,5,4,3,3,3,4,4,4,4,5,7,7,1,7,7,1,6,3,4,4,4,5,5,2,5,6,6,5,5,6,1,1,1,3,1,3,1,1,1,1,2,4,2,1,4,1,4,1,2,3,1,4,4,4,4,1,4,3,3,4,2,1,3,2,4,2,1,2,2,2,4,4,4,2,4,2,3,4,4,4,2,4,2,3,1,3,4,3,3,3,3,2,3,4,3,"1,3","2,3","2,3",3,3,1,3,1,1,3,3,"2,3",3,3,3,3,1,3,3,3,3,4,4,5,2,4,4,4,3,5,4,2,1,4,4,5,5,2,20
+9/16/2015 13:24,9/16/2015 13:42,0,100,1110,1,9/16/2015 13:42,R_22tfhbcJIhogSae,,,,,anonymous,EN,334,6,5,4,3,3,2,5,5,6,3,5,5,4,5,5,5,5,1,4,2,6,5,2,5,5,3,2,4,4,4,4,2,3,3,4,4,4,4,5,3,5,6,7,7,7,1,6,3,4,5,7,3,6,6,6,3,6,6,6,2,6,4,3,5,5,2,1,1,1,1,1,1,1,1,1,1,4,2,3,1,4,3,2,1,3,4,1,2,4,4,4,1,3,1,1,2,3,1,,2,3,4,1,1,2,2,3,4,3,3,3,3,3,1,2,1,3,3,2,2,2,4,4,4,4,4,2,2,2,4,4,3,5,"1,3",3,5,3,3,3,3,5,3,3,5,3,5,5,1,5,5,3,5,3,5,5,1,5,5,5,5,5,5,3,5,5,4,4,3,2,18
+9/16/2015 14:50,9/16/2015 15:10,0,100,1184,1,9/16/2015 15:10,R_31Xi326T7ShxguO,,,,,anonymous,EN,335,5,6,4,6,5,6,6,6,6,6,6,6,6,5,6,6,6,1,6,6,5,5,3,3,3,4,1,3,1,4,4,1,2,1,3,3,4,3,2,4,3,5,6,7,6,1,7,7,1,7,7,2,4,4,2,3,3,3,4,5,6,6,6,7,6,6,1,1,1,1,1,1,1,1,1,1,3,3,1,1,3,1,4,1,2,2,1,2,1,3,3,1,3,4,4,4,4,1,2,4,3,2,1,3,2,1,1,1,1,1,2,1,1,3,2,1,2,2,1,1,1,2,1,2,2,4,4,3,4,4,4,"2,3",3,3,5,5,"2,3",3,3,3,3,3,"2,3",5,3,"2,3",,,1,1,1,1,1,2,1,2,3,1,1,1,1,1,1,1,3,3,1,2,1,18
+9/17/2015 10:48,9/17/2015 11:33,0,100,2702,1,9/17/2015 11:33,R_32LOb909n76ymbh,,,,,anonymous,EN,336,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,4,2,4,2,4,1,1,1,5,4,2,4,1,4,1,5,4,1,4,1,7,7,7,7,1,7,7,1,7,7,1,6,1,1,6,1,1,6,1,6,7,7,7,7,6,5,4,5,5,5,5,5,5,5,5,3,3,1,2,4,1,4,1,1,4,2,4,1,3,4,1,4,1,2,4,2,4,4,4,4,1,4,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,4,4,4,4,4,3,3,1,5,5,5,5,5,5,5,5,2,5,5,1,5,5,3,2,2,3,1,1,1,1,1,4,1,1,1,1,1,1,1,1,3,1,2,22
+9/10/2015 10:18,9/10/2015 11:42,0,4,4994,0,9/17/2015 11:43,R_1odLEmxgyfSod0S,,,,,anonymous,EN,318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9/17/2015 11:34,9/18/2015 10:47,0,100,83570,1,9/18/2015 10:47,R_3DiQt7O94lrPRsT,,,,,anonymous,EN,337,5,5,5,4,5,5,5,4,2,2,3,3,4,4,5,6,4,5,2,4,4,1,4,1,4,2,1,1,2,2,2,3,1,1,2,2,1,1,1,1,1,4,5,5,5,1,5,6,2,6,7,2,6,5,5,5,3,4,6,3,6,5,5,5,5,5,1,1,1,4,4,1,4,,1,1,4,3,3,1,4,3,3,3,2,4,1,3,3,3,4,3,3,3,4,3,4,4,2,2,2,1,4,3,1,3,3,3,4,2,1,1,1,1,3,1,4,1,3,1,1,2,1,1,2,3,3,1,1,3,3,1,5,5,5,5,3,3,5,3,5,5,3,5,3,5,5,3,1,1,1,1,1,2,2,3,2,1,1,2,1,2,3,1,1,1,3,4,2,20
+9/18/2015 10:48,9/18/2015 11:50,0,100,3729,1,9/18/2015 11:50,R_3MgIquBUKOT6yo3,,,,,anonymous,EN,338,4,4,3,5,4,3,3,2,2,3,4,4,4,4,3,2,1,6,5,5,4,2,2,3,3,4,1,1,2,4,4,3,2,1,3,1,4,4,1,4,1,4,5,6,6,4,7,6,2,5,6,2,5,5,3,3,2,2,5,2,4,4,5,5,3,3,3,3,2,2,2,2,2,2,2,2,1,1,1,2,3,2,2,3,2,2,3,2,1,2,3,2,3,1,2,3,1,3,2,2,3,3,2,2,1,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,2,2,3,3,3,"2,3",3,3,3,3,3,3,3,3,3,3,3,3,,2,2,2,1,1,2,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,21
+9/18/2015 11:51,9/18/2015 12:19,0,100,1665,1,9/18/2015 12:19,R_2uvWbwJfUNjOs9J,,,,,anonymous,EN,339,6,5,5,5,3,5,6,5,5,6,5,5,5,6,6,6,6,4,5,5,5,5,2,4,2,4,1,1,1,4,3,2,4,2,4,2,5,4,1,4,1,5,5,6,6,2,7,6,2,6,7,2,5,4,4,5,1,3,5,4,5,4,5,5,3,5,2,1,2,2,2,2,2,3,1,1,3,4,1,1,3,1,4,1,3,4,1,3,2,4,3,2,4,3,2,4,2,2,3,4,4,2,2,3,2,1,1,2,2,1,1,1,1,1,2,1,2,1,1,2,1,2,1,1,2,2,3,3,3,4,4,"2,3",3,"2,3",3,"1,2,3","2,3","1,2,3",3,3,3,5,"1,2,3",3,3,3,5,5,2,1,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,1,1,2,1,28
+9/18/2015 12:56,9/21/2015 11:12,0,100,252986,1,9/21/2015 11:12,R_31MYpCzxBhFyzsl,,,,,anonymous,EN,340,4,5,2,4,4,4,4,4,2,4,4,4,5,4,5,3,5,2,2,3,1,3,1,2,1,2,1,1,1,3,2,1,1,4,1,3,2,1,1,2,1,4,4,4,4,4,7,6,2,5,6,6,2,2,2,4,2,4,5,4,5,3,5,3,6,2,1,1,1,2,1,3,2,1,2,1,3,3,1,1,1,1,2,2,2,3,2,2,3,1,1,3,2,1,1,3,1,1,1,3,3,3,2,3,3,2,3,3,3,1,1,1,2,1,1,3,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,5,5,1,2,5,1,1,5,1,5,5,5,5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,22
+9/21/2015 11:13,9/21/2015 12:19,0,100,3958,1,9/21/2015 12:19,R_3OEtRjWUcLyMx8d,,,,,anonymous,EN,341,4,6,4,3,4,4,4,4,5,3,5,4,5,5,5,5,3,3,4,5,4,4,2,5,5,4,3,2,1,3,3,2,2,1,3,1,2,3,2,4,2,5,6,6,4,3,7,7,1,7,7,1,4,5,5,4,5,6,4,6,4,5,5,2,2,3,1,2,2,2,3,3,1,2,2,1,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,2,1,3,3,1,1,2,2,2,1,1,4,1,1,1,1,1,1,1,1,3,2,1,2,2,1,1,1,2,2,2,1,1,2,2,3,3,4,2,3,3,1,2,1,3,5,5,5,5,"1,2,3",5,5,5,"1,2,3",,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,3,2,1,1,17
+9/21/2015 12:14,9/21/2015 12:33,0,100,1110,1,9/21/2015 12:33,R_2ahRr6wSUCpdN9D,,,,,anonymous,EN,343,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,6,6,6,5,3,4,2,4,3,1,1,5,5,3,3,1,5,3,4,4,3,5,1,7,7,7,7,1,7,7,2,7,7,7,6,4,3,5,5,5,6,1,5,5,6,6,6,6,3,4,5,4,1,5,5,4,4,5,4,3,2,4,4,2,4,2,2,4,3,4,3,4,4,2,4,4,4,4,3,4,4,4,4,3,4,4,3,1,2,3,1,1,2,1,3,1,1,1,1,1,1,2,1,1,1,1,1,2,4,2,4,4,4,2,2,"1,2",5,5,"1,3","1,3","3,5","1,2,3",3,5,"2,3",3,"2,3","2,3",5,"1,2,3",5,4,5,5,5,5,5,2,2,3,2,1,2,1,2,1,2,1,4,1,2,23
+9/10/2015 11:49,9/21/2015 12:39,0,100,953391,1,9/21/2015 12:39,R_1JRsdHjx57Fc81H,,,,,anonymous,EN,342,5,5,4,6,4,5,3,6,6,5,5,4,4,3,5,6,5,1,6,6,5,4,4,3,2,5,2,3,2,3,3,2,4,1,2,5,4,4,4,3,3,6,6,7,7,1,6,6,5,6,3,3,5,5,4,6,4,4,5,1,6,5,6,6,3,2,1,1,1,1,1,2,1,1,1,1,3,4,2,2,3,2,4,2,3,3,2,2,3,4,4,1,3,4,,4,3,1,3,2,3,2,3,3,2,2,2,3,3,1,4,2,3,3,3,3,4,4,2,2,1,3,2,3,2,2,4,4,3,4,4,1,1,1,3,5,1,5,"1,3","1,2,3",3,5,"2,3",5,3,5,5,"1,2,3",1,1,1,2,2,4,2,5,3,1,2,1,2,2,2,1,2,2,3,4,2,24
+9/14/2015 15:31,9/14/2015 15:47,0,33,910,0,9/21/2015 15:47,R_2Y2DOXqwIvbb5CA,,,,,anonymous,EN,331,5,6,4,4,4,3,4,3,2,2,4,2,2,3,5,4,4,3,4,4,6,3,2,4,2,3,3,4,3,4,3,2,3,3,3,5,4,3,5,3,4,6,5,5,5,1,6,7,2,6,6,5,5,1,4,6,3,3,5,5,5,5,5,4,4,2,2,1,2,2,1,1,1,2,1,1,2,2,2,1,2,3,3,2,2,2,1,3,3,3,2,2,3,4,4,2,2,1,3,1,2,2,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9/22/2015 11:05,9/22/2015 11:28,0,100,1372,1,9/22/2015 11:28,R_3HRNlbM4919Gree,,,,,anonymous,EN,344,6,4,1,6,4,5,1,6,5,4,4,4,3,1,6,5,5,2,4,4,5,3,3,4,2,3,5,1,1,4,3,3,2,3,5,4,3,3,5,3,1,3,5,6,5,2,7,7,3,6,6,3,5,3,3,6,1,6,5,4,6,3,7,3,6,6,2,2,3,5,4,4,3,4,3,1,4,3,1,2,4,2,4,1,3,4,2,1,4,4,4,2,1,4,4,3,3,3,4,3,4,4,2,3,2,3,2,3,3,1,4,2,1,1,4,3,3,1,2,2,1,3,2,1,3,3,3,1,4,4,3,"2,3",5,"1,2",,5,"1,2",5,3,1,5,5,"2,3",5,5,"2,3",5,5,3,1,3,4,3,5,4,5,1,1,3,1,3,3,1,4,1,1,1,1,2,20
+9/23/2015 14:00,9/23/2015 14:13,0,100,811,1,9/23/2015 14:13,R_1OqpdoMnwoENZZK,,,,,anonymous,EN,345,4,5,2,5,1,2,2,3,3,5,4,6,4,5,4,3,4,1,4,3,2,3,2,3,2,3,2,2,1,3,3,3,2,2,3,3,4,3,4,3,1,4,4,4,4,5,6,4,4,5,7,7,3,6,5,6,5,6,4,5,4,2,2,2,5,2,1,1,1,1,4,1,1,2,1,1,4,3,1,4,1,1,3,1,4,1,4,3,4,4,1,1,3,3,3,3,2,1,1,3,3,3,2,3,1,3,2,2,2,3,3,4,1,1,1,2,3,2,4,2,2,2,2,1,2,2,2,1,2,4,4,3,3,"1,2,3","2,3",3,"1,2,3",3,3,"1,2,3",3,3,"2,3",3,"2,3","2,3",3,1,2,2,1,2,2,4,4,4,5,5,3,5,5,5,1,2,2,2,4,5,1,20
+9/23/2015 14:48,9/23/2015 15:22,0,100,2005,1,9/23/2015 15:22,R_3HMFtCBDKuFuPkS,,,,,anonymous,EN,346,6,5,6,4,6,6,5,6,4,6,6,5,5,6,6,5,5,2,5,5,4,3,2,4,1,3,1,1,1,5,4,1,3,1,5,3,4,4,1,3,1,7,7,6,5,1,7,6,2,7,7,1,5,1,1,6,1,1,6,1,6,2,2,6,6,7,1,3,1,1,2,2,1,1,2,1,3,4,1,1,1,1,4,1,1,3,1,2,2,4,1,3,2,1,2,4,1,1,2,4,4,3,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,3,4,4,3,"2,3",3,"1,3","2,3",3,"2,3",3,3,3,3,3,"1,2,3","2,3",3,3,,"2,3",3,1,1,2,1,4,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,20
+9/25/2015 8:08,9/25/2015 10:01,0,100,6781,1,9/25/2015 10:01,R_oZY3h5y163Pylhv,,,,,anonymous,EN,347,6,6,6,6,6,4,5,1,5,5,6,5,6,6,5,6,6,6,4,5,3,3,5,2,5,1,2,5,4,3,5,5,1,1,5,5,5,3,5,3,5,5,6,6,6,1,7,5,1,5,7,7,4,2,4,5,2,6,6,4,4,6,7,7,7,7,1,4,3,5,4,4,5,3,3,1,1,4,1,1,1,1,3,1,1,1,1,4,1,4,3,1,4,4,1,4,2,4,1,4,3,1,3,4,4,1,2,1,3,1,2,1,1,1,1,1,1,4,2,1,1,2,4,1,1,3,4,1,1,4,4,1,2,1,5,5,5,5,5,5,5,5,1,5,5,5,5,5,1,1,1,1,1,1,1,1,1,1,1,5,4,1,1,1,5,1,2,5,2,20
+9/25/2015 10:02,9/25/2015 11:13,0,100,4249,1,9/25/2015 11:13,R_1n3bRV9ikZpKQy9,,,,,anonymous,EN,348,6,6,2,3,3,5,5,3,6,6,6,6,6,6,5,2,3,1,5,5,5,4,4,1,4,4,1,2,1,2,4,4,4,3,4,2,4,4,4,1,3,4,5,5,3,4,7,5,2,3,7,5,3,4,5,5,4,6,6,5,6,2,2,5,5,1,1,1,1,1,1,1,1,1,1,1,2,3,1,1,3,1,3,2,3,3,1,3,4,2,4,2,1,2,4,3,4,1,2,1,3,4,2,1,2,3,1,4,3,3,2,2,1,1,4,3,3,1,2,1,1,4,2,2,4,3,3,3,1,2,2,"1,2,3","2,3","2,3","2,3",5,"1,2,3",5,5,1,5,5,"2,3","2,3","2,3",3,3,"2,3",5,1,2,5,1,5,5,4,1,1,1,1,2,5,1,1,5,1,2,2,2,25
+9/25/2015 11:14,9/25/2015 11:33,0,100,1163,1,9/25/2015 11:33,R_2v0vNa5jlDZQL8j,,,,,anonymous,EN,349,6,6,3,5,6,6,6,4,6,5,6,6,6,4,4,5,6,6,6,6,6,5,3,5,2,5,1,3,1,1,5,2,4,1,5,3,5,5,1,5,1,7,7,7,7,1,7,7,1,7,7,7,6,2,4,6,2,4,6,4,6,7,7,7,7,4,3,1,5,5,5,5,5,4,5,5,3,4,4,4,4,2,2,3,2,4,1,3,1,4,4,1,3,1,2,4,1,4,4,4,4,2,4,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,1,1,1,3,4,2,2,4,4,3,3,3,3,3,3,3,1,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,2,1,1,1,2,2,1,1,1,2,2,2,2,18
+9/25/2015 11:43,9/25/2015 11:58,0,100,938,1,9/25/2015 11:58,R_1l9W10D4YTdnTaS,,,,,anonymous,EN,350,4,5,4,5,3,6,3,5,4,5,5,5,4,5,5,5,4,2,5,4,4,3,1,4,1,3,1,1,1,4,4,1,2,1,3,2,4,4,1,3,1,4,5,5,6,1,7,6,1,6,7,4,5,2,2,5,2,3,5,2,5,6,6,6,5,4,1,1,1,2,1,3,1,1,1,1,3,3,1,1,3,1,4,1,1,3,1,2,1,4,4,1,2,2,3,3,2,1,2,2,4,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,1,3,4,4,3,3,1,5,3,5,5,5,5,5,5,5,5,5,5,5,"2,5",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,21
+9/25/2015 11:59,10/1/2015 16:18,0,100,533928,1,10/1/2015 16:18,R_2zA9x2qWvrpo6Sg,,,,,anonymous,EN,351,5,6,5,6,5,5,6,6,5,5,6,5,6,6,5,5,5,2,5,6,6,4,2,4,3,5,1,1,1,5,5,2,2,1,5,3,5,4,2,3,2,6,6,6,6,2,7,7,2,6,6,2,5,2,2,5,2,3,4,2,5,6,6,6,6,6,1,1,2,2,1,1,1,1,1,1,3,3,3,1,4,1,3,2,2,3,1,3,1,3,3,1,4,4,4,3,2,1,4,4,4,1,3,2,1,1,1,1,1,1,2,1,1,2,2,1,1,1,1,1,1,1,2,1,2,2,3,3,4,3,3,2,3,1,5,5,3,5,5,5,5,5,2,3,1,1,1,5,5,5,5,5,5,3,4,1,1,1,4,2,1,3,2,2,2,4,4,4,2,18
